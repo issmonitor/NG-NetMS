@@ -1,0 +1,12 @@
+Hardware inventory:
+Item             Version  Part number  Serial number     Description
+Chassis                                CV0210139435      EX2200-24P-4G
+Routing Engine 0 REV 11   750-026464   CV0210139435      EX2200-24P-4G, POE
+FPC 0            REV 11   750-026464   CV0210139435      EX2200-24P-4G, POE
+  CPU                     BUILTIN      BUILTIN           FPC CPU
+  PIC 0                   BUILTIN      BUILTIN           24x 10/100/1000 Base-T
+  PIC 1          REV 11   750-026464   CV0210139435      4x GE SFP
+Power Supply 0                                           PS 550W AC
+Fan Tray                                                 Fan Tray
+
+{master:0}

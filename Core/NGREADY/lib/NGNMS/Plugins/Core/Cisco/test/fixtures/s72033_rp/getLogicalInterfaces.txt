@@ -1,0 +1,801 @@
+GigabitEthernet2/1 is up, line protocol is up
+GigabitEthernet2/2 is up, line protocol is up
+GigabitEthernet2/3 is up, line protocol is up
+GigabitEthernet2/4 is up, line protocol is up
+GigabitEthernet2/5 is up, line protocol is up
+GigabitEthernet2/6 is up, line protocol is up
+GigabitEthernet2/7 is up, line protocol is up
+GigabitEthernet2/8 is down, line protocol is down
+GigabitEthernet2/9 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet2/10 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet2/11 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet2/12 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet2/13 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet2/14 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet2/15 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet2/16 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet2/17 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet2/18 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet2/19 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet2/20 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet2/21 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet2/22 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet2/23 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet2/24 is administratively down, line protocol is down
+  Internet protocol processing disabled
+TenGigabitEthernet3/1 is up, line protocol is up
+TenGigabitEthernet3/2 is up, line protocol is up
+TenGigabitEthernet3/3 is up, line protocol is up
+TenGigabitEthernet3/4 is up, line protocol is up
+GigabitEthernet4/1 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/2 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/3 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/4 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/5 is up, line protocol is up
+GigabitEthernet4/6 is up, line protocol is up
+  Inbound  access list is not set
+GigabitEthernet4/7 is down, line protocol is down
+  Inbound  access list is not set
+GigabitEthernet4/8 is up, line protocol is up
+  Inbound  access list is not set
+GigabitEthernet4/9 is up, line protocol is up
+  Inbound  access list is not set
+GigabitEthernet4/10 is up, line protocol is up
+GigabitEthernet4/11 is up, line protocol is up
+  Inbound  access list is not set
+GigabitEthernet4/12 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/13 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/14 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/15 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/16 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/17 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/18 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/19 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/20 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/21 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/22 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/23 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/24 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/25 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/26 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/27 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/28 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/29 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/30 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/31 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/32 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/33 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/34 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/35 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/36 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/37 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/38 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/39 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/40 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/41 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/42 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/43 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/44 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/45 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/46 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/47 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet4/48 is up, line protocol is up
+  Inbound  access list is not set
+GigabitEthernet5/1 is administratively down, line protocol is down
+  Internet protocol processing disabled
+GigabitEthernet5/2 is administratively down, line protocol is down
+  Internet protocol processing disabled
+Loopback0 is up, line protocol is up
+  Internet address is 192.168.55.100/32
+  Broadcast address is 255.255.255.255
+  Address determined by non-volatile memory
+  MTU is 1514 bytes
+  Helper address is not set
+  Directed broadcast forwarding is disabled
+  Multicast reserved groups joined: 224.0.0.1 224.0.0.2 224.0.0.22 224.0.0.13
+  Outgoing access list is not set
+  Inbound  access list is not set
+  Proxy ARP is disabled
+  Local Proxy ARP is disabled
+  Security level is default
+  Split horizon is enabled
+  ICMP redirects are always sent
+  ICMP unreachables are always sent
+  ICMP mask replies are never sent
+  IP fast switching is enabled
+  IP Flow switching is disabled
+  IP CEF switching is enabled
+  IP CEF switching turbo vector
+  IP Null turbo vector
+  IP multicast fast switching is enabled
+  IP multicast distributed fast switching is disabled
+  IP route-cache flags are Fast, CEF
+  Router Discovery is disabled
+  IP output packet accounting is disabled
+  IP access violation accounting is disabled
+  TCP/IP header compression is disabled
+  RTP/IP header compression is disabled
+  Probe proxy name replies are disabled
+  Policy routing is disabled
+  Network address translation is disabled
+  BGP Policy Mapping is disabled
+  Input features: MCI Check
+  Output features: IP Post Routing Processing, HW Shortcut Installation
+  Post encapsulation features: MTU Processing, IP Protocol Output Counter, IP Sendself Check, HW Shortcut Installation
+  Sampled Netflow is disabled
+  IP Routed Flow creation is disabled in netflow table
+  IP Bridged Flow creation is disabled in netflow table
+  WCCP Redirect outbound is disabled
+  WCCP Redirect inbound is disabled
+  WCCP Redirect exclude is disabled
+  IP multicast multilayer switching is enabled
+Port-channel2 is up, line protocol is up
+Vlan1 is administratively down, line protocol is down
+  Internet protocol processing disabled
+Vlan13 is up, line protocol is up
+  Internet address is 109.72.122.5/30
+  Broadcast address is 255.255.255.255
+  Address determined by non-volatile memory
+  MTU is 1500 bytes
+  Helper address is not set
+  Directed broadcast forwarding is disabled
+  Outgoing access list is not set
+  Inbound  access list is not set
+  Proxy ARP is disabled
+  Local Proxy ARP is disabled
+  Security level is default
+  Split horizon is enabled
+  ICMP redirects are always sent
+  ICMP unreachables are always sent
+  ICMP mask replies are never sent
+  IP fast switching is enabled
+  IP Flow switching is disabled
+  IP CEF switching is enabled
+  IP CEF switching turbo vector
+  IP Null turbo vector
+  IP multicast fast switching is enabled
+  IP multicast distributed fast switching is disabled
+  IP route-cache flags are Fast, CEF
+  Router Discovery is disabled
+  IP output packet accounting is disabled
+  IP access violation accounting is disabled
+  TCP/IP header compression is disabled
+  RTP/IP header compression is disabled
+  Probe proxy name replies are disabled
+  Policy routing is disabled
+  Network address translation is disabled
+  BGP Policy Mapping is disabled
+  Input features: MCI Check
+  Output features: IP Post Routing Processing, HW Shortcut Installation
+  Post encapsulation features: MTU Processing, IP Protocol Output Counter, IP Sendself Check, HW Shortcut Installation
+  Sampled Netflow is disabled
+  IP Routed Flow creation is disabled in netflow table
+  IP Bridged Flow creation is disabled in netflow table
+  WCCP Redirect outbound is disabled
+  WCCP Redirect inbound is disabled
+  WCCP Redirect exclude is disabled
+  IP multicast multilayer switching is disabled
+Vlan100 is up, line protocol is up
+  Internet address is 109.72.122.61/27
+  Broadcast address is 255.255.255.255
+  Address determined by non-volatile memory
+  MTU is 1500 bytes
+  Helper address is not set
+  Directed broadcast forwarding is disabled
+  Secondary address 109.72.122.60/27
+  Multicast reserved groups joined: 224.0.0.5 224.0.0.6
+  Outgoing access list is not set
+  Inbound  access list is not set
+  Proxy ARP is disabled
+  Local Proxy ARP is disabled
+  Security level is default
+  Split horizon is enabled
+  ICMP redirects are never sent
+  ICMP unreachables are always sent
+  ICMP mask replies are never sent
+  IP fast switching is enabled
+  IP Flow switching is disabled
+  IP CEF switching is enabled
+  IP CEF switching turbo vector
+  IP Null turbo vector
+  IP multicast fast switching is enabled
+  IP multicast distributed fast switching is disabled
+  IP route-cache flags are Fast, CEF
+  Router Discovery is disabled
+  IP output packet accounting is disabled
+  IP access violation accounting is disabled
+  TCP/IP header compression is disabled
+  RTP/IP header compression is disabled
+  Probe proxy name replies are disabled
+  Policy routing is disabled
+  Network address translation is disabled
+  BGP Policy Mapping is disabled
+  Input features: MCI Check
+  Output features: IP Post Routing Processing, HW Shortcut Installation
+  Post encapsulation features: MTU Processing, IP Protocol Output Counter, IP Sendself Check, HW Shortcut Installation
+  Sampled Netflow is disabled
+  IP Routed Flow creation is disabled in netflow table
+  IP Bridged Flow creation is disabled in netflow table
+  WCCP Redirect outbound is disabled
+  WCCP Redirect inbound is disabled
+  WCCP Redirect exclude is disabled
+  IP multicast multilayer switching is disabled
+Vlan201 is up, line protocol is up
+  Internet address is 10.44.255.126/25
+  Broadcast address is 255.255.255.255
+  Address determined by non-volatile memory
+  MTU is 1500 bytes
+  Helper address is not set
+  Directed broadcast forwarding is disabled
+  Outgoing access list is not set
+  Inbound  access list is not set
+  Proxy ARP is enabled
+  Local Proxy ARP is disabled
+  Security level is default
+  Split horizon is enabled
+  ICMP redirects are always sent
+  ICMP unreachables are always sent
+  ICMP mask replies are never sent
+  IP fast switching is enabled
+  IP Flow switching is disabled
+  IP CEF switching is enabled
+  IP CEF switching turbo vector
+  IP Null turbo vector
+  IP multicast fast switching is enabled
+  IP multicast distributed fast switching is disabled
+  IP route-cache flags are Fast, CEF
+  Router Discovery is disabled
+  IP output packet accounting is disabled
+  IP access violation accounting is disabled
+  TCP/IP header compression is disabled
+  RTP/IP header compression is disabled
+  Probe proxy name replies are disabled
+  Policy routing is disabled
+  Network address translation is disabled
+  BGP Policy Mapping is disabled
+  Input features: MCI Check
+  Output features: IP Post Routing Processing, HW Shortcut Installation
+  Post encapsulation features: MTU Processing, IP Protocol Output Counter, IP Sendself Check, HW Shortcut Installation
+  Sampled Netflow is disabled
+  IP Routed Flow creation is disabled in netflow table
+  IP Bridged Flow creation is disabled in netflow table
+  WCCP Redirect outbound is disabled
+  WCCP Redirect inbound is disabled
+  WCCP Redirect exclude is disabled
+  IP multicast multilayer switching is disabled
+Vlan203 is up, line protocol is up
+  Internet address is 92.242.122.190/30
+  Broadcast address is 255.255.255.255
+  Address determined by non-volatile memory
+  MTU is 1500 bytes
+  Helper address is not set
+  Directed broadcast forwarding is disabled
+  Outgoing access list is not set
+  Inbound  access list is not set
+  Proxy ARP is disabled
+  Local Proxy ARP is disabled
+  Security level is default
+  Split horizon is enabled
+  ICMP redirects are always sent
+  ICMP unreachables are always sent
+  ICMP mask replies are never sent
+  IP fast switching is enabled
+  IP Flow switching is disabled
+  IP CEF switching is enabled
+  IP CEF switching turbo vector
+  IP Null turbo vector
+  IP multicast fast switching is enabled
+  IP multicast distributed fast switching is disabled
+  IP route-cache flags are Fast, CEF
+  Router Discovery is disabled
+  IP output packet accounting is disabled
+  IP access violation accounting is disabled
+  TCP/IP header compression is disabled
+  RTP/IP header compression is disabled
+  Probe proxy name replies are disabled
+  Policy routing is disabled
+  Network address translation is disabled
+  BGP Policy Mapping is disabled
+  Input features: MCI Check
+  Output features: IP Post Routing Processing, HW Shortcut Installation
+  Post encapsulation features: MTU Processing, IP Protocol Output Counter, IP Sendself Check, HW Shortcut Installation
+  Sampled Netflow is disabled
+  IP Routed Flow creation is disabled in netflow table
+  IP Bridged Flow creation is disabled in netflow table
+  WCCP Redirect outbound is disabled
+  WCCP Redirect inbound is disabled
+  WCCP Redirect exclude is disabled
+  IP multicast multilayer switching is disabled
+Vlan214 is up, line protocol is up
+  Internet address is 109.72.122.185/29
+  Broadcast address is 255.255.255.255
+  Address determined by non-volatile memory
+  MTU is 1500 bytes
+  Helper address is not set
+  Directed broadcast forwarding is disabled
+  Outgoing access list is not set
+  Inbound  access list is not set
+  Proxy ARP is disabled
+  Local Proxy ARP is disabled
+  Security level is default
+  Split horizon is enabled
+  ICMP redirects are always sent
+  ICMP unreachables are always sent
+  ICMP mask replies are never sent
+  IP fast switching is enabled
+  IP Flow switching is disabled
+  IP CEF switching is enabled
+  IP CEF switching turbo vector
+  IP Null turbo vector
+  IP multicast fast switching is enabled
+  IP multicast distributed fast switching is disabled
+  IP route-cache flags are Fast, CEF
+  Router Discovery is disabled
+  IP output packet accounting is disabled
+  IP access violation accounting is disabled
+  TCP/IP header compression is disabled
+  RTP/IP header compression is disabled
+  Probe proxy name replies are disabled
+  Policy routing is disabled
+  Network address translation is disabled
+  BGP Policy Mapping is disabled
+  Input features: MCI Check
+  Output features: IP Post Routing Processing, HW Shortcut Installation
+  Post encapsulation features: MTU Processing, IP Protocol Output Counter, IP Sendself Check, HW Shortcut Installation
+  Sampled Netflow is disabled
+  IP Routed Flow creation is disabled in netflow table
+  IP Bridged Flow creation is disabled in netflow table
+  WCCP Redirect outbound is disabled
+  WCCP Redirect inbound is disabled
+  WCCP Redirect exclude is disabled
+  IP multicast multilayer switching is disabled
+Vlan252 is up, line protocol is up
+  Internet address is 109.72.122.29/30
+  Broadcast address is 255.255.255.255
+  Address determined by non-volatile memory
+  MTU is 1500 bytes
+  Helper address is not set
+  Directed broadcast forwarding is disabled
+  Outgoing access list is not set
+  Inbound  access list is not set
+  Proxy ARP is disabled
+  Local Proxy ARP is disabled
+  Security level is default
+  Split horizon is enabled
+  ICMP redirects are always sent
+  ICMP unreachables are always sent
+  ICMP mask replies are never sent
+  IP fast switching is enabled
+  IP Flow switching is disabled
+  IP CEF switching is enabled
+  IP CEF switching turbo vector
+  IP Null turbo vector
+  IP multicast fast switching is enabled
+  IP multicast distributed fast switching is disabled
+  IP route-cache flags are Fast, CEF
+  Router Discovery is disabled
+  IP output packet accounting is disabled
+  IP access violation accounting is disabled
+  TCP/IP header compression is disabled
+  RTP/IP header compression is disabled
+  Probe proxy name replies are disabled
+  Policy routing is disabled
+  Network address translation is disabled
+  BGP Policy Mapping is disabled
+  Input features: MCI Check
+  Output features: IP Post Routing Processing, HW Shortcut Installation
+  Post encapsulation features: MTU Processing, IP Protocol Output Counter, IP Sendself Check, HW Shortcut Installation
+  Sampled Netflow is disabled
+  IP Routed Flow creation is disabled in netflow table
+  IP Bridged Flow creation is disabled in netflow table
+  WCCP Redirect outbound is disabled
+  WCCP Redirect inbound is disabled
+  WCCP Redirect exclude is disabled
+  IP multicast multilayer switching is disabled
+Vlan400 is up, line protocol is up
+  Internet address is 109.72.122.13/30
+  Broadcast address is 255.255.255.255
+  Address determined by non-volatile memory
+  MTU is 1500 bytes
+  Helper address is not set
+  Directed broadcast forwarding is disabled
+  Secondary address 192.168.55.9/30
+  Multicast reserved groups joined: 224.0.0.1 224.0.0.2 224.0.0.22 224.0.0.13
+  Outgoing access list is not set
+  Inbound  access list is not set
+  Proxy ARP is disabled
+  Local Proxy ARP is disabled
+  Security level is default
+  Split horizon is enabled
+  ICMP redirects are never sent
+  ICMP unreachables are always sent
+  ICMP mask replies are never sent
+  IP fast switching is enabled
+  IP Flow switching is disabled
+  IP CEF switching is enabled
+  IP CEF switching turbo vector
+  IP Null turbo vector
+  IP multicast fast switching is enabled
+  IP multicast distributed fast switching is disabled
+  IP route-cache flags are Fast, CEF
+  Router Discovery is disabled
+  IP output packet accounting is disabled
+  IP access violation accounting is disabled
+  TCP/IP header compression is disabled
+  RTP/IP header compression is disabled
+  Probe proxy name replies are disabled
+  Policy routing is disabled
+  Network address translation is disabled
+  BGP Policy Mapping is disabled
+  Input features: MCI Check
+  Output features: IP Post Routing Processing, HW Shortcut Installation
+  Post encapsulation features: MTU Processing, IP Protocol Output Counter, IP Sendself Check, HW Shortcut Installation
+  Sampled Netflow is disabled
+  IP Routed Flow creation is disabled in netflow table
+  IP Bridged Flow creation is disabled in netflow table
+  WCCP Redirect outbound is disabled
+  WCCP Redirect inbound is disabled
+  WCCP Redirect exclude is disabled
+  IP multicast multilayer switching is enabled
+Vlan445 is administratively down, line protocol is down
+  Internet address is 46.164.158.254/30
+  Broadcast address is 255.255.255.255
+  Address determined by non-volatile memory
+  MTU is 1500 bytes
+  Helper address is not set
+  Directed broadcast forwarding is disabled
+  Outgoing access list is not set
+  Inbound  access list is not set
+  Proxy ARP is disabled
+  Local Proxy ARP is disabled
+  Security level is default
+  Split horizon is enabled
+  ICMP redirects are always sent
+  ICMP unreachables are always sent
+  ICMP mask replies are never sent
+  IP fast switching is enabled
+  IP Flow switching is disabled
+  IP CEF switching is enabled
+  IP CEF switching turbo vector
+  IP Null turbo vector
+  IP multicast fast switching is enabled
+  IP multicast distributed fast switching is disabled
+  IP route-cache flags are Fast, CEF
+  Router Discovery is disabled
+  IP output packet accounting is disabled
+  IP access violation accounting is disabled
+  TCP/IP header compression is disabled
+  RTP/IP header compression is disabled
+  Probe proxy name replies are disabled
+  Policy routing is disabled
+  Network address translation is disabled
+  BGP Policy Mapping is disabled
+  Input features: MCI Check
+  Output features: IP Post Routing Processing, HW Shortcut Installation
+  Post encapsulation features: MTU Processing, IP Protocol Output Counter, IP Sendself Check, HW Shortcut Installation
+  Sampled Netflow is disabled
+  IP Routed Flow creation is disabled in netflow table
+  IP Bridged Flow creation is disabled in netflow table
+  WCCP Redirect outbound is disabled
+  WCCP Redirect inbound is disabled
+  WCCP Redirect exclude is disabled
+  IP multicast multilayer switching is disabled
+Vlan507 is up, line protocol is up
+  Internet address is 192.168.254.82/30
+  Broadcast address is 255.255.255.255
+  Address determined by non-volatile memory
+  MTU is 1500 bytes
+  Helper address is not set
+  Directed broadcast forwarding is disabled
+  Multicast reserved groups joined: 224.0.0.1 224.0.0.2 224.0.0.22 224.0.0.13
+  Outgoing access list is not set
+  Inbound  access list is not set
+  Proxy ARP is disabled
+  Local Proxy ARP is disabled
+  Security level is default
+  Split horizon is enabled
+  ICMP redirects are always sent
+  ICMP unreachables are always sent
+  ICMP mask replies are never sent
+  IP fast switching is enabled
+  IP Flow switching is disabled
+  IP CEF switching is enabled
+  IP CEF switching turbo vector
+  IP Null turbo vector
+  IP multicast fast switching is enabled
+  IP multicast distributed fast switching is disabled
+  IP route-cache flags are Fast, CEF
+  Router Discovery is disabled
+  IP output packet accounting is disabled
+  IP access violation accounting is disabled
+  TCP/IP header compression is disabled
+  RTP/IP header compression is disabled
+  Probe proxy name replies are disabled
+  Policy routing is disabled
+  Network address translation is disabled
+  BGP Policy Mapping is disabled
+  Input features: MCI Check
+  Output features: IP Post Routing Processing, HW Shortcut Installation
+  Post encapsulation features: MTU Processing, IP Protocol Output Counter, IP Sendself Check, HW Shortcut Installation
+  Sampled Netflow is disabled
+  IP Routed Flow creation is disabled in netflow table
+  IP Bridged Flow creation is disabled in netflow table
+  WCCP Redirect outbound is disabled
+  WCCP Redirect inbound is disabled
+  WCCP Redirect exclude is disabled
+  IP multicast multilayer switching is enabled
+Vlan1332 is up, line protocol is up
+  Internet address is 213.133.161.182/30
+  Broadcast address is 255.255.255.255
+  Address determined by non-volatile memory
+  MTU is 1500 bytes
+  Helper address is not set
+  Directed broadcast forwarding is disabled
+  Outgoing access list is not set
+  Inbound  access list is not set
+  Proxy ARP is disabled
+  Local Proxy ARP is disabled
+  Security level is default
+  Split horizon is enabled
+  ICMP redirects are always sent
+  ICMP unreachables are always sent
+  ICMP mask replies are never sent
+  IP fast switching is enabled
+  IP Flow switching is disabled
+  IP CEF switching is enabled
+  IP CEF switching turbo vector
+  IP Null turbo vector
+  IP multicast fast switching is enabled
+  IP multicast distributed fast switching is disabled
+  IP route-cache flags are Fast, CEF
+  Router Discovery is disabled
+  IP output packet accounting is disabled
+  IP access violation accounting is disabled
+  TCP/IP header compression is disabled
+  RTP/IP header compression is disabled
+  Probe proxy name replies are disabled
+  Policy routing is disabled
+  Network address translation is disabled
+  BGP Policy Mapping is disabled
+  Input features: MCI Check
+  Output features: IP Post Routing Processing, HW Shortcut Installation
+  Post encapsulation features: MTU Processing, IP Protocol Output Counter, IP Sendself Check, HW Shortcut Installation
+  Sampled Netflow is disabled
+  IP Routed Flow creation is disabled in netflow table
+  IP Bridged Flow creation is disabled in netflow table
+  WCCP Redirect outbound is disabled
+  WCCP Redirect inbound is disabled
+  WCCP Redirect exclude is disabled
+  IP multicast multilayer switching is disabled
+Vlan2100 is up, line protocol is up
+  Internet address is 193.46.210.186/29
+  Broadcast address is 255.255.255.255
+  Address determined by non-volatile memory
+  MTU is 1500 bytes
+  Helper address is not set
+  Directed broadcast forwarding is disabled
+  Outgoing access list is not set
+  Inbound  access list is not set
+  Proxy ARP is disabled
+  Local Proxy ARP is disabled
+  Security level is default
+  Split horizon is enabled
+  ICMP redirects are always sent
+  ICMP unreachables are always sent
+  ICMP mask replies are never sent
+  IP fast switching is enabled
+  IP Flow switching is disabled
+  IP CEF switching is enabled
+  IP CEF switching turbo vector
+  IP Null turbo vector
+  IP multicast fast switching is enabled
+  IP multicast distributed fast switching is disabled
+  IP route-cache flags are Fast, CEF
+  Router Discovery is disabled
+  IP output packet accounting is disabled
+  IP access violation accounting is disabled
+  TCP/IP header compression is disabled
+  RTP/IP header compression is disabled
+  Probe proxy name replies are disabled
+  Policy routing is disabled
+  Network address translation is disabled
+  BGP Policy Mapping is disabled
+  Input features: MCI Check
+  Output features: IP Post Routing Processing, HW Shortcut Installation
+  Post encapsulation features: MTU Processing, IP Protocol Output Counter, IP Sendself Check, HW Shortcut Installation
+  Sampled Netflow is disabled
+  IP Routed Flow creation is disabled in netflow table
+  IP Bridged Flow creation is disabled in netflow table
+  WCCP Redirect outbound is disabled
+  WCCP Redirect inbound is disabled
+  WCCP Redirect exclude is disabled
+  IP multicast multilayer switching is disabled
+Vlan2959 is up, line protocol is up
+  Internet protocol processing disabled
+Vlan2966 is up, line protocol is up
+  Internet address is 192.168.55.1/30
+  Broadcast address is 255.255.255.255
+  Address determined by non-volatile memory
+  MTU is 1500 bytes
+  Helper address is not set
+  Directed broadcast forwarding is disabled
+  Multicast reserved groups joined: 224.0.0.1 224.0.0.2 224.0.0.22 224.0.0.13
+  Outgoing access list is not set
+  Inbound  access list is not set
+  Proxy ARP is disabled
+  Local Proxy ARP is disabled
+  Security level is default
+  Split horizon is enabled
+  ICMP redirects are always sent
+  ICMP unreachables are always sent
+  ICMP mask replies are never sent
+  IP fast switching is enabled
+  IP Flow switching is disabled
+  IP CEF switching is enabled
+  IP CEF switching turbo vector
+  IP Null turbo vector
+  IP multicast fast switching is enabled
+  IP multicast distributed fast switching is disabled
+  IP route-cache flags are Fast, CEF
+  Router Discovery is disabled
+  IP output packet accounting is disabled
+  IP access violation accounting is disabled
+  TCP/IP header compression is disabled
+  RTP/IP header compression is disabled
+  Probe proxy name replies are disabled
+  Policy routing is disabled
+  Network address translation is disabled
+  BGP Policy Mapping is disabled
+  Input features: MCI Check
+  Output features: IP Post Routing Processing, HW Shortcut Installation
+  Post encapsulation features: MTU Processing, IP Protocol Output Counter, IP Sendself Check, HW Shortcut Installation
+  Sampled Netflow is disabled
+  IP Routed Flow creation is disabled in netflow table
+  IP Bridged Flow creation is disabled in netflow table
+  WCCP Redirect outbound is disabled
+  WCCP Redirect inbound is disabled
+  WCCP Redirect exclude is disabled
+  IP multicast multilayer switching is enabled
+Vlan2967 is up, line protocol is up
+  Internet address is 192.168.55.5/30
+  Broadcast address is 255.255.255.255
+  Address determined by non-volatile memory
+  MTU is 1500 bytes
+  Helper address is not set
+  Directed broadcast forwarding is disabled
+  Multicast reserved groups joined: 224.0.0.1 224.0.0.2 224.0.0.22 224.0.0.13
+  Outgoing access list is not set
+  Inbound  access list is not set
+  Proxy ARP is disabled
+  Local Proxy ARP is disabled
+  Security level is default
+  Split horizon is enabled
+  ICMP redirects are always sent
+  ICMP unreachables are always sent
+  ICMP mask replies are never sent
+  IP fast switching is enabled
+  IP Flow switching is disabled
+  IP CEF switching is enabled
+  IP CEF switching turbo vector
+  IP Null turbo vector
+  IP multicast fast switching is enabled
+  IP multicast distributed fast switching is disabled
+  IP route-cache flags are Fast, CEF
+  Router Discovery is disabled
+  IP output packet accounting is disabled
+  IP access violation accounting is disabled
+  TCP/IP header compression is disabled
+  RTP/IP header compression is disabled
+  Probe proxy name replies are disabled
+  Policy routing is disabled
+  Network address translation is disabled
+  BGP Policy Mapping is disabled
+  Input features: MCI Check
+  Output features: IP Post Routing Processing, HW Shortcut Installation
+  Post encapsulation features: MTU Processing, IP Protocol Output Counter, IP Sendself Check, HW Shortcut Installation
+  Sampled Netflow is disabled
+  IP Routed Flow creation is disabled in netflow table
+  IP Bridged Flow creation is disabled in netflow table
+  WCCP Redirect outbound is disabled
+  WCCP Redirect inbound is disabled
+  WCCP Redirect exclude is disabled
+  IP multicast multilayer switching is enabled
+Vlan2970 is up, line protocol is up
+  Internet address is 192.168.72.100/24
+  Broadcast address is 255.255.255.255
+  Address determined by non-volatile memory
+  MTU is 1500 bytes
+  Helper address is not set
+  Directed broadcast forwarding is disabled
+  Multicast reserved groups joined: 224.0.0.1 224.0.0.2 224.0.0.22 224.0.0.13
+  Outgoing access list is not set
+  Inbound  access list is not set
+  Proxy ARP is disabled
+  Local Proxy ARP is disabled
+  Security level is default
+  Split horizon is enabled
+  ICMP redirects are always sent
+  ICMP unreachables are always sent
+  ICMP mask replies are never sent
+  IP fast switching is enabled
+  IP Flow switching is disabled
+  IP CEF switching is enabled
+  IP CEF switching turbo vector
+  IP Null turbo vector
+  IP multicast fast switching is enabled
+  IP multicast distributed fast switching is disabled
+  IP route-cache flags are Fast, CEF
+  Router Discovery is disabled
+  IP output packet accounting is disabled
+  IP access violation accounting is disabled
+  TCP/IP header compression is disabled
+  RTP/IP header compression is disabled
+  Probe proxy name replies are disabled
+  Policy routing is disabled
+  Network address translation is disabled
+  BGP Policy Mapping is disabled
+  Input features: MCI Check
+  Output features: IP Post Routing Processing, HW Shortcut Installation
+  Post encapsulation features: MTU Processing, IP Protocol Output Counter, IP Sendself Check, HW Shortcut Installation
+  Sampled Netflow is disabled
+  IP Routed Flow creation is disabled in netflow table
+  IP Bridged Flow creation is disabled in netflow table
+  WCCP Redirect outbound is disabled
+  WCCP Redirect inbound is disabled
+  WCCP Redirect exclude is disabled
+  IP multicast multilayer switching is enabled

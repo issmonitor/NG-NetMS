@@ -1,0 +1,11 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/system1/firmware1
+  Targets
+  Properties
+    version=P56
+    date=11/01/2008
+  Verbs
+    cd version exit show set

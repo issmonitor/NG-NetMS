@@ -1,0 +1,18 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/system1/sensor2
+  Targets
+  Properties
+    DeviceID=VRM 2
+    ElementName=CPU 2
+    OperationalStatus=Ok
+    RateUnits=Volts
+    CurrentReading=N/A
+    SensorType=Voltage
+    HealthState=Ok
+    oemhp_CautionValue=0
+    oemhp_CriticalValue=0
+  Verbs
+    cd version exit show set

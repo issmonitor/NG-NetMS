@@ -1,0 +1,47 @@
+Cisco Internetwork Operating System Software 
+IOS (tm) MC3810 Software (MC3810-I5K9S-M), Version 12.2(29b), RELEASE SOFTWARE (fc1)
+Copyright (c) 1986-2007 by cisco Systems, Inc.
+Compiled Mon 30-Jul-07 18:50 by kellythw
+Image text-base: 0x00023000, data-base: 0x00C4E5F0
+
+ROM: System Bootstrap, Version 11.3(1)MA1, MAINTENANCE INTERIM SOFTWARE
+ROM: MC3810 Software (MC3810-WBOOT-M), Version 11.3(1)MA1,  MAINTENANCE INTERIM SOFTWARE 
+
+C1 uptime is 1 year, 9 weeks, 6 days, 7 hours, 2 minutes
+System returned to ROM by power-on
+System image file is "flash:mc3810-i5k9s-mz.122-29b.bin"
+
+
+This product contains cryptographic features and is subject to United
+States and local country laws governing import, export, transfer and
+use. Delivery of Cisco cryptographic products does not imply
+third-party authority to import, export, distribute or use encryption.
+Importers, exporters, distributors and users are responsible for
+compliance with U.S. and local country laws. By using this product you
+agree to comply with applicable laws and regulations. If you are unable
+to comply with U.S. and local laws, return this product immediately.
+
+A summary of U.S. laws governing Cisco cryptographic products may be found at:
+http://www.cisco.com/wwl/export/crypto/tool/stqrg.html
+
+If you require further assistance please contact us by sending email to
+export@cisco.com.
+
+cisco MC3810 (MPC860) processor (revision 06.06) with 28672K/4096K bytes of memory.
+Processor board ID 08633785
+PPC860 PowerQUICC, partnum 0x0000, version A03(0x0013)
+Channelized E1, Version 1.0.
+Bridging software.
+X.25 software, Version 3.0.0.
+MC3810 SCB board (v04.K0)
+1 Multiflex E1(slot 3) RJ45 interface(v01.K0)
+1 Multiflex E1(slot 4) RJ45 interface(v01.K0)
+1 6-DSP(slot2) Voice Compression Module(v01.K0)
+1 6-DSP(slot5) Voice Compression Module(v01.K0)
+1 Ethernet/IEEE 802.3 interface(s)
+2 Serial(sync/async) network interface(s)
+2 Channelized E1/PRI port(s)
+256K bytes of non-volatile configuration memory.
+8192K bytes of processor board System flash (INTEL28F016) 
+
+Configuration register is 0x2102

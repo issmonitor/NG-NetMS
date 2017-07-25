@@ -1,0 +1,15 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/system1/fan3
+  Targets
+  Properties
+    DeviceID=Fan 3
+    ElementName=CPU
+    OperationalStatus=Ok
+    VariableSpeed=Yes
+    DesiredSpeed=42
+    HealthState=Ok
+  Verbs
+    cd version exit show set

@@ -1,0 +1,13 @@
+Slot-1      : 800152-00-08 0808G-80073 Rev 8.0 BootROM: 1.0.3.1    IMG: 15.3.3.5
+Slot-2      : 800304-00-01 0951G-80879 Rev 1.0 BootROM: 1.0.3.5    IMG: 15.3.3.5
+Slot-3      :
+Slot-4      :
+Slot-5      :
+Slot-6      :
+Slot-7      :
+Slot-8      :
+
+Image   : ExtremeXOS version 15.3.3.5 v1533b5-patch1-10 by release-manager
+          on Fri May 23 15:29:58 EDT 2014
+BootROM : 1.0.3.1
+Diagnostics : 5.10

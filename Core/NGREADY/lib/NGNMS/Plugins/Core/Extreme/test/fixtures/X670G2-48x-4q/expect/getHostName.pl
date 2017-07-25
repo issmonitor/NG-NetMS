@@ -1,0 +1,1 @@
+'MDN-KPN POC X670V'

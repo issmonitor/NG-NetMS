@@ -1,0 +1,11 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/map1/firmware1
+  Targets
+  Properties
+    version=1.70
+    date=12/02/2008
+  Verbs
+    cd version exit show load set

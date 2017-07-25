@@ -1,0 +1,1574 @@
+Port:	1(DISPLAY_STRING_PORT1):
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	2
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	3
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	4
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	5
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	6
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	7
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	8
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	9
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	10
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	11
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	12
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	13
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	14
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	15
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	16
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	17
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	18
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	19
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	20
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	21(DISPLAY_STRING):
+	Description String: "UPLINK!!!!!!"
+	Virtual-router:	VR-Default
+	Type:		UTP
+	Redundant Type:	NONE
+	Random Early drop:	Unsupported
+	Admin state:	Enabled
+	Copper Medium Configuration:	 auto-speed sensing  auto-duplex auto-polarity on
+	Fiber Medium Configuration:	 auto-speed sensing  auto-duplex
+	Link State:	Active, 1Gbps, full-duplex
+	Link Ups:       1        Last: Sun Feb 01 22:53:33 2015
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	auto-polarity: 			Enabled
+	Preferred medium: 		Fiber
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	22
+	Virtual-router:	VR-Default
+	Type:		NONE
+	Redundant Type:	UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled
+	Copper Medium Configuration:	 auto-speed sensing  auto-duplex auto-polarity on
+	Fiber Medium Configuration:	 auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	Preferred medium: 		Fiber
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	23
+	Virtual-router:	VR-Default
+	Type:		NONE
+	Redundant Type:	UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled
+	Copper Medium Configuration:	 auto-speed sensing  auto-duplex auto-polarity on
+	Fiber Medium Configuration:	 auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	Preferred medium: 		Fiber
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	24
+	Virtual-router:	VR-Default
+	Type:		NONE
+	Redundant Type:	UTP
+	Random Early drop:	Unsupported
+	Admin state:	Enabled
+	Copper Medium Configuration:	 auto-speed sensing  auto-duplex auto-polarity on
+	Fiber Medium Configuration:	 auto-speed sensing  auto-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	Preferred medium: 		Fiber
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	25
+	Virtual-router:	VR-Default
+	Type:		NONE
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  10G full-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	Far-End-Fault-Indication: 	Disabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled
+Port:	26
+	Virtual-router:	VR-Default
+	Type:		NONE
+	Random Early drop:	Unsupported
+	Admin state:	Enabled with  10G full-duplex
+	Link State:	Ready
+	Link Ups:       0        Last: --
+	Link Downs:     0        Last: --
+
+	VLAN cfg:
+		 Name: Default, Internal Tag = 1, MAC-limit = No-limit, Virtual router:   VR-Default
+	STP cfg:
+		s0(disable), Tag=(none), Mode=802.1D, State=FORWARDING
+
+	Protocol:
+		 Name: Default      Protocol: ANY      Match all protocols.
+	Trunking:	Load sharing is not enabled.
+
+	EDP:		Enabled
+	ELSM:		Disabled
+	Ethernet OAM:		Disabled
+	Learning:	Enabled
+	Unicast Flooding:	Enabled
+	Multicast Flooding:	Enabled
+	Broadcast Flooding:	Enabled
+	Jumbo:		Disabled
+
+	Flow Control:	Rx-Pause: Enabled	Tx-Pause: Disabled
+	Priority Flow Control: Disabled
+	Reflective Relay:	Disabled
+	Link up/down SNMP trap filter setting:	Enabled
+	Egress Port Rate:	No-limit
+	Broadcast Rate:		No-limit
+	Multicast Rate:		No-limit
+	Unknown Dest Mac Rate:	No-limit
+	QoS Profile:	None configured
+	Ingress Rate Shaping : 		Unsupported
+	Ingress IPTOS Examination: 	Disabled
+	Ingress 802.1p Examination: 	Enabled
+	Ingress 802.1p Inner Exam: 	Disabled
+	Egress IPTOS Replacement:	Disabled
+	Egress 802.1p Replacement:	Disabled
+	NetLogin: 			Disabled
+	NetLogin port mode: 		Port based VLANs
+	Smart redundancy: 		Enabled
+	Software redundant port: 	Disabled
+	IPFIX:   Disabled		Metering:  Ingress, All Packets, All Traffic
+		IPv4 Flow Key Mask:	SIP: 255.255.255.255 		DIP: 255.255.255.255
+		IPv6 Flow Key Mask:	SIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+					DIP: ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff
+
+	Far-End-Fault-Indication: 	Disabled
+	Shared packet buffer:		default
+	VMAN CEP egress filtering:	Disabled
+	Isolation:			Off
+	PTP Configured:      		Disabled
+	Time-Stamping Mode:  		None
+	Synchronous Ethernet:		Unsupported
+	Dynamic VLAN Uplink:          	Disabled
+	VM Tracking Dynamic VLANs:    	Disabled

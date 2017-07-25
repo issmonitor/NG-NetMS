@@ -1,0 +1,18 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/system1/sensor7
+  Targets
+  Properties
+    DeviceID=Temp 5
+    ElementName=Power Supply Zone
+    OperationalStatus=Ok
+    RateUnits=Celsius
+    CurrentReading=40
+    SensorType=Temperature
+    HealthState=Ok
+    oemhp_CautionValue=77
+    oemhp_CriticalValue=82
+  Verbs
+    cd version exit show set

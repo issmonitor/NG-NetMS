@@ -1,0 +1,11 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/system1/slot3
+  Targets
+  Properties
+    type=PCI Express
+    width=4x
+  Verbs
+    cd version exit show set

@@ -1,0 +1,18 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/system1/sensor4
+  Targets
+  Properties
+    DeviceID=Temp 2
+    ElementName=Ambient Zone
+    OperationalStatus=Ok
+    RateUnits=Celsius
+    CurrentReading=13
+    SensorType=Temperature
+    HealthState=Ok
+    oemhp_CautionValue=39
+    oemhp_CriticalValue=44
+  Verbs
+    cd version exit show set

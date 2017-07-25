@@ -1,0 +1,12 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/system1/memory4
+  Targets
+  Properties
+    size=8192MB
+    speed=667MHz
+    location=DIMM 4C 
+  Verbs
+    cd version exit show set

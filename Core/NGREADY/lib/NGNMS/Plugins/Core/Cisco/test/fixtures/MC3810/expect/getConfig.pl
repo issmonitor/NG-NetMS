@@ -1,0 +1,162 @@
+use warnings FATAL => 'all';
+use strict;
+<<'HEREDOC_CONFIG'
+Building configuration...
+
+Current configuration : 3307 bytes
+!
+version 12.2
+no service pad
+service timestamps debug uptime
+service timestamps log datetime localtime
+service password-encryption
+!
+hostname C1
+!
+no logging on
+aaa new-model
+aaa authentication login default local
+enable secret 5 $1$MOyO$8nvp8w5NgkB8T/MJXJUy2/
+enable password 7 1511021F0725
+!
+username cisco password 7 0822455D0A16
+username lab password 7 0811434D251807
+username ngnms password 7 121615031D181F
+network-clock base-rate 56k
+ip subnet-zero
+ip cef
+no ip domain-lookup
+ip domain-name opt-net.eu
+!
+!
+ip vrf Home_VPN1
+ rd 1:101
+ route-target export 1:101
+ route-target import 1:101
+!
+ip vrf Home_VPN2
+ rd 1:102
+ route-target export 1:102
+ route-target import 1:102
+ip ssh time-out 60
+!
+!
+!
+!
+!
+no voice confirmation-tone
+!
+!
+controller E1 0
+!
+controller E1 1
+!
+!
+!
+interface Loopback0
+ description C1-RouterID
+ ip address 10.1.1.1 255.255.255.255
+!
+interface Ethernet0
+ description C1->Common segment
+ ip address 192.168.4.1 255.255.255.0 secondary
+ ip address 192.168.3.202 255.255.255.0
+ no ip mroute-cache
+!
+interface Serial0
+ description Home_VPN1
+ ip vrf forwarding Home_VPN1
+ ip address 192.168.20.1 255.255.255.248
+ no ip mroute-cache
+ clockrate 2000000
+!
+interface Serial1
+ description E1 line to C1<->C2
+ ip address 20.0.1.1 255.255.255.252
+ no ip mroute-cache
+ clockrate 2000000
+!
+router ospf 1
+ router-id 10.1.1.1
+ log-adjacency-changes
+ redistribute bgp 100 subnets
+ network 10.0.0.0 0.255.255.255 area 0
+ network 20.0.0.0 0.255.255.255 area 0
+!
+router bgp 100
+ no synchronization
+ bgp always-compare-med
+ bgp log-neighbor-changes
+ redistribute connected
+ redistribute ospf 1
+ neighbor 20.0.1.2 remote-as 500
+ neighbor 20.0.1.2 version 4
+ neighbor 20.0.1.2 remove-private-AS
+ neighbor 192.168.3.200 remote-as 64512
+ neighbor 192.168.3.200 version 4
+ no auto-summary
+ !
+ address-family ipv4 vrf Home_VPN2
+ no auto-summary
+ no synchronization
+ exit-address-family
+ !
+ address-family ipv4 vrf Home_VPN1
+ no auto-summary
+ no synchronization
+ exit-address-family
+!
+ip classless
+ip route 0.0.0.0 0.0.0.0 192.168.254.254
+no ip http server
+!
+logging source-interface Loopback0
+logging 192.168.3.117
+logging 192.168.3.120
+logging 192.168.3.105
+access-list 10 permit any
+route-map set-int permit 10
+ match ip address 10
+ set origin igp
+!
+snmp-server community public RO
+snmp-server trap-source Loopback0
+snmp-server location 'OPT/NET GARAGE'
+snmp-server contact TM
+snmp-server enable traps snmp authentication linkdown linkup coldstart warmstart
+snmp-server enable traps tty
+snmp-server enable traps hsrp
+snmp-server enable traps config
+snmp-server enable traps entity
+snmp-server enable traps bgp
+snmp-server enable traps ipmulticast
+snmp-server enable traps msdp
+snmp-server enable traps rsvp
+snmp-server enable traps frame-relay
+snmp-server enable traps rtr
+snmp-server enable traps dlsw
+snmp-server enable traps dial
+snmp-server enable traps voice poor-qov
+snmp-server host 192.168.3.105 version 2c public 
+snmp-server host 192.168.3.107 version 2c public 
+snmp-server host 192.168.3.117 version 2c public 
+snmp-server host 192.168.3.120 version 2c public 
+!
+dial-peer cor custom
+!
+!
+!
+!
+line con 0
+ session-timeout 30  output
+ exec-timeout 30 0
+line aux 0
+line 2 3
+line vty 0 4
+ session-timeout 60 
+ password 7 02050D480809
+ transport preferred telnet
+ transport input telnet ssh
+!
+end
+HEREDOC_CONFIG

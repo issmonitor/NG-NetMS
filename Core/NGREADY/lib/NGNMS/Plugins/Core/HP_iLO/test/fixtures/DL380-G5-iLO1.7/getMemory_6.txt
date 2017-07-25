@@ -1,0 +1,12 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/system1/memory6
+  Targets
+  Properties
+    size=8192MB
+    speed=667MHz
+    location=DIMM 6D 
+  Verbs
+    cd version exit show set

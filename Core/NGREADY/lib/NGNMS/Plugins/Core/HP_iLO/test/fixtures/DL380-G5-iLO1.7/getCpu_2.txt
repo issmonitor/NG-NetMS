@@ -1,0 +1,21 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/system1/cpu2
+  Targets
+    logical_processor1
+    logical_processor2
+    logical_processor3
+    logical_processor4
+    logical_processor5
+    logical_processor6
+    logical_processor7
+    logical_processor8
+  Properties
+    speed=4000MHz
+    cachememory1=128KB
+    cachememory2=8192KB
+    
+  Verbs
+    cd version exit show set

@@ -1,0 +1,11 @@
+Hardware inventory:
+Item             Version  Part number  Serial number     Description
+Chassis                                JN10FDB0EADB      J6350
+Midplane         REV 04   710-014593   VA7806           
+System IO        REV 01   710-016210   VB5049            JX350 System IO
+Crypto Module                                            Crypto Acceleration
+Routing Engine   REV 15   710-015273   VB7166            RE-J6350-3400
+FPC 0                                                    FPC
+  PIC 0                                                  4x GE Base PIC
+Power Supply 0  
+Power Supply 1  

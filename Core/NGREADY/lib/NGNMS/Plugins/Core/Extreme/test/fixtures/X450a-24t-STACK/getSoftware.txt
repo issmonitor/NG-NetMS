@@ -1,0 +1,36 @@
+SysName:          CORE-EXT-S450
+SysLocation:      M69A
+SysContact:       hostmaster@tvcom.net.ua
+System MAC:       02:04:96:34:CB:DB
+System Type:      X450a-24t (Stack)
+
+SysHealth check:  Enabled (Normal)
+Recovery Mode:    All
+System Watchdog:  Enabled
+
+Current Time:     Fri Sep 23 13:21:43 2016
+Timezone:         [Auto DST Enabled] GMT Offset: 120 minutes, name is EEST.
+                  DST of 60 minutes is currently in effect, name is not set.
+                  DST begins every second Sunday March at 2:00
+                  DST ends every first Sunday November at 2:00
+
+Boot Time:        Mon Dec 14 11:22:17 2015
+Boot Count:       88
+Next Reboot:      None scheduled
+System UpTime:    284 days 59 minutes 26 seconds
+
+Slot:             Slot-1 *                     Slot-2
+                  ------------------------     ------------------------
+Current State:    MASTER                       BACKUP (In Sync)
+
+Image Selected:   secondary                    secondary
+Image Booted:     secondary                    secondary
+Primary ver:      15.3.1.4                     15.3.1.4
+Secondary ver:    15.3.3.5                     15.3.3.5
+                  patch1-10                    patch1-10
+
+Config Selected:  primary.cfg
+Config Booted:    primary.cfg
+
+primary.cfg       Created by ExtremeXOS version 15.3.3.5
+                  1376141 bytes saved on Tue Sep 13 12:35:10 2016

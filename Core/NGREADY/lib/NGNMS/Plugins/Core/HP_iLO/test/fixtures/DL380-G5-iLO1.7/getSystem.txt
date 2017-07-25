@@ -1,0 +1,63 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/system1
+  Targets
+    firmware1
+    bootconfig1
+    log1
+    led1
+    oemhp_vsp1
+    cpu1
+    cpu2
+    memory1
+    memory2
+    memory3
+    memory4
+    memory5
+    memory6
+    memory7
+    memory8
+    slot1
+    slot2
+    slot3
+    slot4
+    slot5
+    fan1
+    fan2
+    fan3
+    fan4
+    fan5
+    fan6
+    sensor1
+    sensor2
+    sensor3
+    sensor4
+    sensor5
+    sensor6
+    sensor7
+    sensor8
+    sensor9
+    powersupply1
+    powersupply2
+  Properties
+    name=ProLiant DL380 G5
+    number=CZC7440YYC
+    oemhp_server_name=TEST SRV OPT/NET
+    enabledstate=enabled
+    oemhp_powerreg=off
+    processor_number=8
+    pstate_number=1
+    oemhp_pwrcap=473 Watts
+    oemhp_PresentPower=416 Watts
+    oemhp_AveragePower=415 Watts
+    oemhp_MaxPower=433 Watts
+    oemhp_MinPower=415 Watts
+    warning_type=peak power
+    warning_threshold=800 Watts
+    warning_duration=5 minutes
+  Verbs
+    cd version exit show reset set start stop
+
+                                 

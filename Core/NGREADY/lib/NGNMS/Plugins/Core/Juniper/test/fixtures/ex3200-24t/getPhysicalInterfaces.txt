@@ -1,0 +1,2759 @@
+Physical interface: ge-0/0/0, Enabled, Physical link is Down
+  Interface index: 129, SNMP ifIndex: 501, Generation: 132
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running Down
+  Interface flags: Hardware-Down SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:03, Hardware address: 00:26:88:78:4b:03
+  Last flapped   : 2017-01-31 18:58:51 UTC (3w2d 16:01 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :               102480                    0 bps
+   Output bytes  :               283477                    0 bps
+   Input  packets:                  409                    0 pps
+   Output packets:                  445                    0 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 4, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0                  409                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0                   36                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : LINK
+  Active defects : LINK
+  MAC statistics:                      Receive         Transmit
+    Total octets                        102480           283477
+    Total packets                          409              445
+    Unicast packets                        298              386
+    Broadcast packets                       82               18
+    Multicast packets                       29               41
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Incomplete
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95      950000000    95             NA      low    none
+    7 network-control         5       50000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/0.0 (Index 72) (SNMP ifIndex 502) (Generation 137)
+    Flags: Device-Down SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                 3499
+     Output bytes  :                 3466
+     Input  packets:                   32
+     Output packets:                   32
+    Local statistics:
+     Input  bytes  :                 3499
+     Output bytes  :                 3466
+     Input  packets:                   32
+     Output packets:                   32
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 152, Route table: 0
+      Flags: Is-Primary
+
+Physical interface: ge-0/0/1, Enabled, Physical link is Down
+  Interface index: 130, SNMP ifIndex: 503, Generation: 133
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running Down
+  Interface flags: Hardware-Down SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:04, Hardware address: 00:26:88:78:4b:04
+  Last flapped   : 2017-01-31 18:58:24 UTC (3w2d 16:01 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :               416236                    0 bps
+   Output bytes  :               936341                    0 bps
+   Input  packets:                 2005                    0 pps
+   Output packets:                12251                    0 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 20, Errors: 0, Drops: 0, Collisions: 0,
+    Aged packets: 0, FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0,
+    Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0                    0                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0                12251                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : LINK
+  Active defects : LINK
+  MAC statistics:                      Receive         Transmit
+    Total octets                        416236           936341
+    Total packets                         2005            12251
+    Unicast packets                          0                0
+    Broadcast packets                      856                0
+    Multicast packets                     1149            12251
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Incomplete
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95      950000000    95             NA      low    none
+    7 network-control         5       50000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/1.0 (Index 73) (SNMP ifIndex 504) (Generation 138)
+    Flags: Device-Down SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :               325707
+     Output bytes  :              1425075
+     Input  packets:                 1322
+     Output packets:                12251
+    Local statistics:
+     Input  bytes  :               325707
+     Output bytes  :              1425075
+     Input  packets:                 1322
+     Output packets:                12251
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 153, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/2, Enabled, Physical link is Down
+  Interface index: 131, SNMP ifIndex: 525, Generation: 134
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running Down
+  Interface flags: Hardware-Down SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:05, Hardware address: 00:26:88:78:4b:05
+  Last flapped   : 2017-01-25 09:27:56 UTC (4w2d 01:32 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :               182343                    0 bps
+   Output bytes  :               550748                    0 bps
+   Input  packets:                  683                    0 pps
+   Output packets:                  766                    0 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 8, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0                  733                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0                   33                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : LINK
+  Active defects : LINK
+  MAC statistics:                      Receive         Transmit
+    Total octets                        182343           550748
+    Total packets                          683              766
+    Unicast packets                        530              694
+    Broadcast packets                       91               33
+    Multicast packets                       62               39
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Incomplete
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95      950000000    95             NA      low    none
+    7 network-control         5       50000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/2.0 (Index 74) (SNMP ifIndex 526) (Generation 139)
+    Flags: Device-Down SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                 3832
+     Output bytes  :                 3666
+     Input  packets:                   34
+     Output packets:                   31
+    Local statistics:
+     Input  bytes  :                 3832
+     Output bytes  :                 3666
+     Input  packets:                   34
+     Output packets:                   31
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 154, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/3, Enabled, Physical link is Down
+  Interface index: 132, SNMP ifIndex: 535, Generation: 135
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: Hardware-Down SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:06, Hardware address: 00:26:88:78:4b:06
+  Last flapped   : Never
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0                    0 bps
+   Output bytes  :                    0                    0 bps
+   Input  packets:                    0                    0 pps
+   Output packets:                    0                    0 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 0, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0                    0                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0                    0                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : LINK
+  Active defects : LINK
+  MAC statistics:                      Receive         Transmit
+    Total octets                             0                0
+    Total packets                            0                0
+    Unicast packets                          0                0
+    Broadcast packets                        0                0
+    Multicast packets                        0                0
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Incomplete
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/3.0 (Index 75) (SNMP ifIndex 536) (Generation 140)
+    Flags: Device-Down SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Local statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 155, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/4, Enabled, Physical link is Down
+  Interface index: 133, SNMP ifIndex: 537, Generation: 136
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: Hardware-Down SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:07, Hardware address: 00:26:88:78:4b:07
+  Last flapped   : Never
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0                    0 bps
+   Output bytes  :                    0                    0 bps
+   Input  packets:                    0                    0 pps
+   Output packets:                    0                    0 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 0, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0                    0                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0                    0                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : LINK
+  Active defects : LINK
+  MAC statistics:                      Receive         Transmit
+    Total octets                             0                0
+    Total packets                            0                0
+    Unicast packets                          0                0
+    Broadcast packets                        0                0
+    Multicast packets                        0                0
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Incomplete
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/4.0 (Index 76) (SNMP ifIndex 538) (Generation 141)
+    Flags: Device-Down SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Local statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 156, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/5, Enabled, Physical link is Down
+  Interface index: 134, SNMP ifIndex: 539, Generation: 137
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running Down
+  Interface flags: Hardware-Down SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:08, Hardware address: 00:26:88:78:4b:08
+  Last flapped   : 2017-01-20 14:42:58 UTC (4w6d 20:17 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                 5800                    0 bps
+   Output bytes  :                 1604                    0 bps
+   Input  packets:                   57                    0 pps
+   Output packets:                   13                    0 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 6, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0                    0                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0                   13                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : LINK
+  Active defects : LINK
+  MAC statistics:                      Receive         Transmit
+    Total octets                          5800             1604
+    Total packets                           57               13
+    Unicast packets                          0                0
+    Broadcast packets                       30                0
+    Multicast packets                       27               13
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Incomplete
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95      950000000    95             NA      low    none
+    7 network-control         5       50000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/5.0 (Index 77) (SNMP ifIndex 540) (Generation 142)
+    Flags: Device-Down SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                  494
+     Output bytes  :                 1792
+     Input  packets:                    3
+     Output packets:                   13
+    Local statistics:
+     Input  bytes  :                  494
+     Output bytes  :                 1792
+     Input  packets:                    3
+     Output packets:                   13
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 157, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/6, Enabled, Physical link is Down
+  Interface index: 135, SNMP ifIndex: 541, Generation: 138
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: Hardware-Down SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:09, Hardware address: 00:26:88:78:4b:09
+  Last flapped   : Never
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0                    0 bps
+   Output bytes  :                    0                    0 bps
+   Input  packets:                    0                    0 pps
+   Output packets:                    0                    0 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 0, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0                    0                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0                    0                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : LINK
+  Active defects : LINK
+  MAC statistics:                      Receive         Transmit
+    Total octets                             0                0
+    Total packets                            0                0
+    Unicast packets                          0                0
+    Broadcast packets                        0                0
+    Multicast packets                        0                0
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Incomplete
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/6.0 (Index 78) (SNMP ifIndex 542) (Generation 143)
+    Flags: Device-Down SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Local statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 158, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/7, Enabled, Physical link is Down
+  Interface index: 136, SNMP ifIndex: 543, Generation: 139
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: Hardware-Down SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:0a, Hardware address: 00:26:88:78:4b:0a
+  Last flapped   : Never
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0                    0 bps
+   Output bytes  :                    0                    0 bps
+   Input  packets:                    0                    0 pps
+   Output packets:                    0                    0 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 0, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0                    0                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0                    0                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : LINK
+  Active defects : LINK
+  MAC statistics:                      Receive         Transmit
+    Total octets                             0                0
+    Total packets                            0                0
+    Unicast packets                          0                0
+    Broadcast packets                        0                0
+    Multicast packets                        0                0
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Incomplete
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/7.0 (Index 79) (SNMP ifIndex 544) (Generation 144)
+    Flags: Device-Down SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Local statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 159, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/8, Enabled, Physical link is Up
+  Interface index: 137, SNMP ifIndex: 545, Generation: 140
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:0b, Hardware address: 00:26:88:78:4b:0b
+  Last flapped   : 2017-01-31 13:25:39 UTC (3w2d 21:34 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :           3988454563                 4880 bps
+   Output bytes  :           8345957002                29648 bps
+   Input  packets:             13563123                    3 pps
+   Output packets:             26448428                   24 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 1, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0             25047130                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0              1401298                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : None
+  Active defects : None
+  MAC statistics:                      Receive         Transmit
+    Total octets                    3988454563       8345957002
+    Total packets                     13563123         26448428
+    Unicast packets                   12574847         18927882
+    Broadcast packets                   986520          5490878
+    Multicast packets                     1756          2029668
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Complete
+    Link partner:
+        Link mode: Full-duplex, Flow control: Symmetric, Remote fault: OK,
+        Link partner Speed: 1000 Mbps
+    Local resolution:
+        Flow control: Symmetric, Remote fault: Link OK
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95      950000000    95             NA      low    none
+    7 network-control         5       50000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/8.0 (Index 80) (SNMP ifIndex 546) (Generation 145)
+    Flags: SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :             59737004
+     Output bytes  :            228160164
+     Input  packets:               992615
+     Output packets:              1717187
+    Local statistics:
+     Input  bytes  :             59737004
+     Output bytes  :            228160164
+     Input  packets:               992615
+     Output packets:              1717187
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 160, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/9, Enabled, Physical link is Down
+  Interface index: 138, SNMP ifIndex: 547, Generation: 141
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: Hardware-Down SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:0c, Hardware address: 00:26:88:78:4b:0c
+  Last flapped   : Never
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0                    0 bps
+   Output bytes  :                    0                    0 bps
+   Input  packets:                    0                    0 pps
+   Output packets:                    0                    0 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 0, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0                    0                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0                    0                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : LINK
+  Active defects : LINK
+  MAC statistics:                      Receive         Transmit
+    Total octets                             0                0
+    Total packets                            0                0
+    Unicast packets                          0                0
+    Broadcast packets                        0                0
+    Multicast packets                        0                0
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Incomplete
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/9.0 (Index 81) (SNMP ifIndex 548) (Generation 146)
+    Flags: Device-Down SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Local statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 161, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/10, Enabled, Physical link is Down
+  Interface index: 139, SNMP ifIndex: 505, Generation: 142
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: Hardware-Down SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:0d, Hardware address: 00:26:88:78:4b:0d
+  Last flapped   : Never
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0                    0 bps
+   Output bytes  :                    0                    0 bps
+   Input  packets:                    0                    0 pps
+   Output packets:                    0                    0 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 0, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0                    0                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0                    0                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : LINK
+  Active defects : LINK
+  MAC statistics:                      Receive         Transmit
+    Total octets                             0                0
+    Total packets                            0                0
+    Unicast packets                          0                0
+    Broadcast packets                        0                0
+    Multicast packets                        0                0
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Incomplete
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/10.0 (Index 82) (SNMP ifIndex 506) (Generation 147)
+    Flags: Device-Down SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Local statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 162, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/11, Enabled, Physical link is Up
+  Interface index: 140, SNMP ifIndex: 507, Generation: 143
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:0e, Hardware address: 00:26:88:78:4b:0e
+  Last flapped   : 2017-02-24 10:51:36 UTC (00:08:35 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :             47271554                    0 bps
+   Output bytes  :            433177324                 1536 bps
+   Input  packets:               254752                    0 pps
+   Output packets:              5615124                    3 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 48277, Errors: 0, Drops: 0, Collisions: 0,
+    Aged packets: 0, FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0,
+    Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0              3951234                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0              1663893                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : None
+  Active defects : None
+  MAC statistics:                      Receive         Transmit
+    Total octets                      47271554        433177324
+    Total packets                       254752          5615124
+    Unicast packets                     227218           257443
+    Broadcast packets                     7820          3352594
+    Multicast packets                    19714          2005087
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         2                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                       1398
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Complete
+    Link partner:
+        Link mode: Full-duplex, Flow control: None, Remote fault: OK,
+        Link partner Speed: 100 Mbps
+    Local resolution:
+        Flow control: Symmetric, Remote fault: Link OK
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95       95000000    95             NA      low    none
+    7 network-control         5        5000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/11.0 (Index 83) (SNMP ifIndex 508) (Generation 148)
+    Description: NIBE Unit
+    Flags: SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                38850
+     Output bytes  :            194752211
+     Input  packets:                  111
+     Output packets:              1686366
+    Local statistics:
+     Input  bytes  :                38850
+     Output bytes  :            194752211
+     Input  packets:                  111
+     Output packets:              1686366
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 163, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/12, Enabled, Physical link is Up
+  Interface index: 141, SNMP ifIndex: 509, Generation: 144
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:0f, Hardware address: 00:26:88:78:4b:0f
+  Last flapped   : 2017-02-20 14:18:36 UTC (3d 20:41 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :            405220782                  880 bps
+   Output bytes  :            122256268                 1016 bps
+   Input  packets:              3687721                    0 pps
+   Output packets:              1539384                    1 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 5, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0               286546                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0              1252838                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : None
+  Active defects : None
+  MAC statistics:                      Receive         Transmit
+    Total octets                     405220782        122256268
+    Total packets                      3687721          1539384
+    Unicast packets                     157401           147548
+    Broadcast packets                  3530320           137628
+    Multicast packets                        0          1254208
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Complete
+    Link partner:
+        Link mode: Full-duplex, Flow control: None, Remote fault: OK,
+        Link partner Speed: 100 Mbps
+    Local resolution:
+        Flow control: Symmetric, Remote fault: Link OK
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95       95000000    95             NA      low    none
+    7 network-control         5        5000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/12.0 (Index 84) (SNMP ifIndex 510) (Generation 149)
+    Flags: SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                 2360
+     Output bytes  :            144417418
+     Input  packets:                    4
+     Output packets:              1252838
+    Local statistics:
+     Input  bytes  :                 2360
+     Output bytes  :            144417418
+     Input  packets:                    4
+     Output packets:              1252838
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 164, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/13, Enabled, Physical link is Down
+  Interface index: 142, SNMP ifIndex: 511, Generation: 145
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: Hardware-Down SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:10, Hardware address: 00:26:88:78:4b:10
+  Last flapped   : Never
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0                    0 bps
+   Output bytes  :                    0                    0 bps
+   Input  packets:                    0                    0 pps
+   Output packets:                    0                    0 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 0, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0                    0                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0                    0                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : LINK
+  Active defects : LINK
+  MAC statistics:                      Receive         Transmit
+    Total octets                             0                0
+    Total packets                            0                0
+    Unicast packets                          0                0
+    Broadcast packets                        0                0
+    Multicast packets                        0                0
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Incomplete
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/13.0 (Index 85) (SNMP ifIndex 512) (Generation 150)
+    Flags: Device-Down SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Local statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 165, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/14, Enabled, Physical link is Down
+  Interface index: 143, SNMP ifIndex: 513, Generation: 146
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running Down
+  Interface flags: Hardware-Down SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:11, Hardware address: 00:26:88:78:4b:11
+  Last flapped   : 2017-01-20 14:43:22 UTC (4w6d 20:16 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                17969                    0 bps
+   Output bytes  :                15462                    0 bps
+   Input  packets:                  187                    0 pps
+   Output packets:                  135                    0 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 2, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0                  123                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0                   12                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : LINK
+  Active defects : LINK
+  MAC statistics:                      Receive         Transmit
+    Total octets                         17969            15462
+    Total packets                          187              135
+    Unicast packets                        105              103
+    Broadcast packets                       56               20
+    Multicast packets                       26               12
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Incomplete
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95      950000000    95             NA      low    none
+    7 network-control         5       50000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/14.0 (Index 86) (SNMP ifIndex 514) (Generation 151)
+    Flags: Device-Down SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                 2064
+     Output bytes  :                 1420
+     Input  packets:                   10
+     Output packets:                   12
+    Local statistics:
+     Input  bytes  :                 2064
+     Output bytes  :                 1420
+     Input  packets:                   10
+     Output packets:                   12
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 166, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/15, Enabled, Physical link is Up
+  Interface index: 144, SNMP ifIndex: 515, Generation: 147
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:12, Hardware address: 00:26:88:78:4b:12
+  Last flapped   : 2017-02-12 19:51:32 UTC (1w4d 15:08 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :              7302810                    0 bps
+   Output bytes  :            121142949                 1904 bps
+   Input  packets:                70920                    0 pps
+   Output packets:              1373477                    2 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 19, Errors: 0, Drops: 0, Collisions: 0,
+    Aged packets: 0, FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0,
+    Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0               803017                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0               570462                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : None
+  Active defects : None
+  MAC statistics:                      Receive         Transmit
+    Total octets                       7302810        121142949
+    Total packets                        70920          1373477
+    Unicast packets                      37147            37859
+    Broadcast packets                    23574           764724
+    Multicast packets                    10199           570894
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Complete
+    Link partner:
+        Link mode: Full-duplex, Flow control: None, Remote fault: OK,
+        Link partner Speed: 100 Mbps
+    Local resolution:
+        Flow control: Symmetric, Remote fault: Link OK
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95       95000000    95             NA      low    none
+    7 network-control         5        5000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/15.0 (Index 87) (SNMP ifIndex 516) (Generation 152)
+    Flags: SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :               631618
+     Output bytes  :             65806735
+     Input  packets:                 8525
+     Output packets:               570463
+    Local statistics:
+     Input  bytes  :               631618
+     Output bytes  :             65806735
+     Input  packets:                 8525
+     Output packets:               570463
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 167, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/16, Enabled, Physical link is Up
+  Interface index: 145, SNMP ifIndex: 517, Generation: 148
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:13, Hardware address: 00:26:88:78:4b:13
+  Last flapped   : 2017-02-12 16:58:23 UTC (1w4d 18:01 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :           1009091110                  512 bps
+   Output bytes  :           1481645862                 4096 bps
+   Input  packets:              3137787                    1 pps
+   Output packets:              9606767                    8 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 19, Errors: 0, Drops: 0, Collisions: 0,
+    Aged packets: 0, FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0,
+    Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0              8436297                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0              1170471                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : None
+  Active defects : None
+  MAC statistics:                      Receive         Transmit
+    Total octets                    1009091110       1481645862
+    Total packets                      3137787          9606767
+    Unicast packets                    2989817          2083950
+    Broadcast packets                   146403          5837460
+    Multicast packets                     1567          1685357
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Complete
+    Link partner:
+        Link mode: Full-duplex, Flow control: Symmetric, Remote fault: OK,
+        Link partner Speed: 100 Mbps
+    Local resolution:
+        Flow control: Symmetric, Remote fault: Link OK
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95       95000000    95             NA      low    none
+    7 network-control         5        5000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/16.0 (Index 88) (SNMP ifIndex 518) (Generation 153)
+    Flags: SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :              9193958
+     Output bytes  :            123989736
+     Input  packets:               150897
+     Output packets:              1138625
+    Local statistics:
+     Input  bytes  :              9193958
+     Output bytes  :            123989736
+     Input  packets:               150897
+     Output packets:              1138625
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 168, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/17, Enabled, Physical link is Up
+  Interface index: 146, SNMP ifIndex: 519, Generation: 149
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:14, Hardware address: 00:26:88:78:4b:14
+  Last flapped   : 2017-02-12 16:58:23 UTC (1w4d 18:01 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :            612304481                  512 bps
+   Output bytes  :            391332593                 1024 bps
+   Input  packets:              1029064                    1 pps
+   Output packets:              3915957                    2 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 15, Errors: 0, Drops: 0, Collisions: 0,
+    Aged packets: 0, FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0,
+    Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0              3343145                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0               572812                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : None
+  Active defects : None
+  MAC statistics:                      Receive         Transmit
+    Total octets                     612304481        391332593
+    Total packets                      1029064          3915957
+    Unicast packets                    1028619          1225868
+    Broadcast packets                      411          2000226
+    Multicast packets                       34           689863
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Complete
+    Link partner:
+        Link mode: Full-duplex, Flow control: Symmetric, Remote fault: OK,
+        Link partner Speed: 100 Mbps
+    Local resolution:
+        Flow control: Symmetric, Remote fault: Link OK
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95       95000000    95             NA      low    none
+    7 network-control         5        5000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/17.0 (Index 89) (SNMP ifIndex 520) (Generation 154)
+    Flags: SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                 2020
+     Output bytes  :             65881887
+     Input  packets:                    9
+     Output packets:               572813
+    Local statistics:
+     Input  bytes  :                 2020
+     Output bytes  :             65881887
+     Input  packets:                    9
+     Output packets:               572813
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 169, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/18, Enabled, Physical link is Up
+  Interface index: 147, SNMP ifIndex: 521, Generation: 150
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:15, Hardware address: 00:26:88:78:4b:15
+  Last flapped   : 2017-02-12 19:50:21 UTC (1w4d 15:09 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :             56724081                  512 bps
+   Output bytes  :            387099779                 3072 bps
+   Input  packets:               709861                    1 pps
+   Output packets:              5593361                    6 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 3, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0              5438234                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0               155134                    1
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : None
+  Active defects : None
+  MAC statistics:                      Receive         Transmit
+    Total octets                      56724081        387099779
+    Total packets                       709861          5593361
+    Unicast packets                        658              647
+    Broadcast packets                    29904          5161611
+    Multicast packets                   679299           431103
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Complete
+    Link partner:
+        Link mode: Full-duplex, Flow control: Symmetric, Remote fault: OK,
+        Link partner Speed: 1000 Mbps
+    Local resolution:
+        Flow control: Symmetric, Remote fault: Link OK
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95      950000000    95             NA      low    none
+    7 network-control         5       50000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/18.0 (Index 90) (SNMP ifIndex 522) (Generation 155)
+    Flags: SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :             53748666
+     Output bytes  :              8448230
+     Input  packets:               709204
+     Output packets:                36291
+    Local statistics:
+     Input  bytes  :             53748666
+     Output bytes  :              8448230
+     Input  packets:               709204
+     Output packets:                36291
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 170, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/19, Enabled, Physical link is Up
+  Interface index: 148, SNMP ifIndex: 523, Generation: 151
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:16, Hardware address: 00:26:88:78:4b:16
+  Last flapped   : 2017-02-08 10:29:46 UTC (2w2d 00:30 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :             12827970                    0 bps
+   Output bytes  :            383803926                 1024 bps
+   Input  packets:                84060                    0 pps
+   Output packets:              5528129                    2 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 9, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0              3832795                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0              1695335                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : None
+  Active defects : None
+  MAC statistics:                      Receive         Transmit
+    Total octets                      12827970        383803926
+    Total packets                        84060          5528129
+    Unicast packets                      81973           126956
+    Broadcast packets                     2087          3357644
+    Multicast packets                        0          2043529
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                        39                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Complete
+    Link partner:
+        Link mode: Full-duplex, Flow control: None, Remote fault: OK,
+        Link partner Speed: 100 Mbps
+    Local resolution:
+        Flow control: Symmetric, Remote fault: Link OK
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95       95000000    95             NA      low    none
+    7 network-control         5        5000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/19.0 (Index 91) (SNMP ifIndex 524) (Generation 156)
+    Flags: SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                    0
+     Output bytes  :            194991729
+     Input  packets:                    0
+     Output packets:              1695335
+    Local statistics:
+     Input  bytes  :                    0
+     Output bytes  :            194991729
+     Input  packets:                    0
+     Output packets:              1695335
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 171, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/20, Enabled, Physical link is Up
+  Interface index: 149, SNMP ifIndex: 527, Generation: 152
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:17, Hardware address: 00:26:88:78:4b:17
+  Last flapped   : 2017-02-03 15:04:48 UTC (2w6d 19:55 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :            519764684               139968 bps
+   Output bytes  :            611002622                61032 bps
+   Input  packets:              3699117                   88 pps
+   Output packets:              7714908                   70 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 665, Errors: 0, Drops: 0, Collisions: 0,
+    Aged packets: 0, FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0,
+    Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0              6042948                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0              1672068                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : None
+  Active defects : None
+  MAC statistics:                      Receive         Transmit
+    Total octets                     519764684        611002622
+    Total packets                      3699117          7714908
+    Unicast packets                    1624425           660896
+    Broadcast packets                  1852274          4838400
+    Multicast packets                   222418          2215612
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Complete
+    Link partner:
+        Link mode: Full-duplex, Flow control: None, Remote fault: OK,
+        Link partner Speed: 1000 Mbps
+    Local resolution:
+        Flow control: Symmetric, Remote fault: Link OK
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95      950000000    95             NA      low    none
+    7 network-control         5       50000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/20.0 (Index 92) (SNMP ifIndex 528) (Generation 157)
+    Flags: SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :            143089135
+     Output bytes  :            159404940
+     Input  packets:              2040553
+     Output packets:              1385118
+    Local statistics:
+     Input  bytes  :            143089135
+     Output bytes  :            159404940
+     Input  packets:              2040553
+     Output packets:              1385118
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 172, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/21, Enabled, Physical link is Up
+  Interface index: 150, SNMP ifIndex: 529, Generation: 153
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:18, Hardware address: 00:26:88:78:4b:18
+  Last flapped   : 2014-11-03 21:49:10 UTC (120w3d 13:11 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :           1557233025               222704 bps
+   Output bytes  :           2487092883               756640 bps
+   Input  packets:             13270398                  397 pps
+   Output packets:             12808425                  413 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 1, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0             11113222                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0              1695245                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : None
+  Active defects : None
+  MAC statistics:                      Receive         Transmit
+    Total octets                    1557233025       2487092883
+    Total packets                     13270398         12808425
+    Unicast packets                   11158563          9515470
+    Broadcast packets                  2108319          1251413
+    Multicast packets                     3516          2041542
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Complete
+    Link partner:
+        Link mode: Full-duplex, Flow control: Symmetric, Remote fault: OK,
+        Link partner Speed: 1000 Mbps
+    Local resolution:
+        Flow control: Symmetric, Remote fault: Link OK
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95      950000000    95             NA      low    none
+    7 network-control         5       50000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/21.0 (Index 93) (SNMP ifIndex 530) (Generation 158)
+    Flags: SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :               238868
+     Output bytes  :            194979968
+     Input  packets:                 2041
+     Output packets:              1695245
+    Local statistics:
+     Input  bytes  :               238868
+     Output bytes  :            194979968
+     Input  packets:                 2041
+     Output packets:              1695245
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 173, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/22, Enabled, Physical link is Up
+  Interface index: 151, SNMP ifIndex: 531, Generation: 154
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:19, Hardware address: 00:26:88:78:4b:19
+  Last flapped   : 2017-02-05 10:59:34 UTC (2w5d 00:00 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :           9340270798               171000 bps
+   Output bytes  :           5729174788               569168 bps
+   Input  packets:             25628105                  296 pps
+   Output packets:             24580223                  319 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 9, Errors: 0, Drops: 0, Collisions: 0, Aged packets: 0,
+    FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0, Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0             22530780                    0
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0              2049521                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : None
+  Active defects : None
+  MAC statistics:                      Receive         Transmit
+    Total octets                    9340270798       5729174788
+    Total packets                     25628105         24580223
+    Unicast packets                   21166401         17344938
+    Broadcast packets                  2363312          4918628
+    Multicast packets                  2098392          2316657
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Complete
+    Link partner:
+        Link mode: Full-duplex, Flow control: Symmetric, Remote fault: OK,
+        Link partner Speed: 1000 Mbps
+    Local resolution:
+        Flow control: Symmetric, Remote fault: Link OK
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95      950000000    95             NA      low    none
+    7 network-control         5       50000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/22.0 (Index 94) (SNMP ifIndex 532) (Generation 159)
+    Flags: SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :            379681762
+     Output bytes  :            587814123
+     Input  packets:              4404739
+     Output packets:              5616697
+    Local statistics:
+     Input  bytes  :            379681762
+     Output bytes  :            587814123
+     Input  packets:              4404739
+     Output packets:              5616697
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 174, Route table: 0
+      Flags: None
+
+Physical interface: ge-0/0/23, Enabled, Physical link is Up
+  Interface index: 152, SNMP ifIndex: 533, Generation: 155
+  Link-level type: Ethernet, MTU: 1514, Speed: Auto, Duplex: Auto,
+  BPDU Error: None, MAC-REWRITE Error: None, Loopback: Disabled,
+  Source filtering: Disabled, Flow control: Enabled, Auto-negotiation: Enabled,
+  Remote fault: Online, Media type: Copper
+  Device flags   : Present Running
+  Interface flags: SNMP-Traps Internal: 0x0
+  Link flags     : None
+  CoS queues     : 8 supported, 8 maximum usable queues
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:1a, Hardware address: 00:26:88:78:4b:1a
+  Last flapped   : 2017-02-12 18:20:10 UTC (1w4d 16:40 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :           2831208780               769704 bps
+   Output bytes  :           2816010420               237728 bps
+   Input  packets:             13320879                  413 pps
+   Output packets:             19877964                  400 pps
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Policed discards: 0,
+    L3 incompletes: 0, L2 channel errors: 0, L2 mismatch timeouts: 0,
+    FIFO errors: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 21, Errors: 0, Drops: 0, Collisions: 0,
+    Aged packets: 0, FIFO errors: 0, HS link CRC errors: 0, MTU errors: 0,
+    Resource errors: 0
+  Egress queues: 8 supported, 4 in use
+  Queue counters:       Queued packets  Transmitted packets      Dropped packets
+    0 best-effort                    0             18184196                   63
+    1 assured-forw                   0                    0                    0
+    5 expedited-fo                   0                    0                    0
+    7 network-cont                   0              1693910                    0
+  Queue number:         Mapped forwarding classes
+    0                   best-effort
+    1                   assured-forwarding
+    5                   expedited-forwarding
+    7                   network-control
+  Active alarms  : None
+  Active defects : None
+  MAC statistics:                      Receive         Transmit
+    Total octets                    2831208780       2816010420
+    Total packets                     13320879         19877964
+    Unicast packets                   11064579         12514641
+    Broadcast packets                  1496099          5664433
+    Multicast packets                   760201          1698890
+    CRC/Align errors                         0                0
+    FIFO errors                              0                0
+    MAC control frames                       0                0
+    MAC pause frames                         0                0
+    Oversized frames                         0
+    Jabber frames                            0
+    Fragment frames                          0
+    Code violations                          0
+  Autonegotiation information:
+    Negotiation status: Complete
+    Link partner:
+        Link mode: Full-duplex, Flow control: None, Remote fault: OK,
+        Link partner Speed: 100 Mbps
+    Local resolution:
+        Flow control: Symmetric, Remote fault: Link OK
+  Packet Forwarding Engine configuration:
+    Destination slot: 0
+  CoS information:
+    Direction : Output
+    CoS transmit queue               Bandwidth               Buffer Priority   Limit
+                              %            bps     %           usec
+    0 best-effort            95       95000000    95             NA      low    none
+    7 network-control         5        5000000     5             NA      low    none
+  Interface transmit statistics: Disabled
+
+  Logical interface ge-0/0/23.0 (Index 95) (SNMP ifIndex 534) (Generation 160)
+    Flags: SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :             29075374
+     Output bytes  :            195694139
+     Input  packets:               353046
+     Output packets:              1693911
+    Local statistics:
+     Input  bytes  :             29075374
+     Output bytes  :            195694139
+     Input  packets:               353046
+     Output packets:              1693911
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol eth-switch, Generation: 175, Route table: 0
+      Flags: Trunk-Mode
+
+Physical interface: .local., Enabled, Physical link is Up
+  Interface index: 0, SNMP ifIndex: 0, Generation: 1
+  Type: Loopback, Link-level type: Interface-Specific, MTU: Unlimited,
+  Clocking: Unspecified, Speed: Unlimited
+  Device flags   : Present Running Loopback
+  Interface flags: Point-To-Point
+  Link type      : Unspecified
+  Link flags     : None
+  Physical info  : Unspecified
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: Unspecified, Hardware address: Unspecified
+  Alternate link address: Unspecified
+  Last flapped   : Never
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0
+   Output bytes  :                    0
+   Input  packets:                    0
+   Output packets:                    0
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Giants: 0,
+    Policed discards: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 0, Errors: 0, Drops: 0, MTU errors: 0,
+    Resource errors: 0
+
+  Logical interface .local..0 (Index 0) (SNMP ifIndex 0) (HW Token 1)
+   (Generation 1)
+    Flags: Point-To-Point Encapsulation: Unspecified
+    Bandwidth: 0
+    Protocol inet, MTU: Unlimited, Generation: 138, Route table: 0
+      Flags: None
+      Addresses, Flags: Is-Primary
+        Destination: Unspecified, Local: 10.0.0.1, Broadcast: Unspecified,
+        Generation: 134
+      Addresses, Flags: None
+        Destination: Unspecified, Local: 10.255.2.1, Broadcast: Unspecified,
+        Generation: 138
+      Addresses, Flags: None
+        Destination: Unspecified, Local: 10.255.4.1, Broadcast: Unspecified,
+        Generation: 140
+      Addresses, Flags: None
+        Destination: Unspecified, Local: 192.168.3.201, Broadcast: Unspecified,
+        Generation: 136
+    Protocol iso, MTU: Unlimited, Generation: 134, Route table: 0
+      Flags: None
+    Protocol inet6, MTU: Unlimited, Generation: 136, Route table: 0
+      Flags: None
+    Protocol mpls, MTU: Unlimited, Maximum labels: 3, Generation: 135,
+    Route table: 0
+      Flags: None
+    Protocol eth-switch, Generation: 130, Route table: 0
+      Flags: None
+    Protocol 56, MTU: Unlimited, Generation: 129, Route table: 0
+      Flags: None
+    Protocol 57, MTU: Unlimited, Generation: 133, Route table: 0
+      Flags: None
+    Protocol 60, MTU: Unlimited, Generation: 131, Route table: 0
+      Flags: None
+    Protocol 61, MTU: Unlimited, Generation: 132, Route table: 0
+      Flags: None
+
+  Logical interface .local..1 (Index 1) (SNMP ifIndex 0) (Generation 2)
+    Flags: Point-To-Point Encapsulation: Unspecified
+    Bandwidth: 0
+    Protocol inet, MTU: Unlimited, Generation: 139, Route table: 1
+      Flags: None
+      Addresses, Flags: Is-Primary
+        Destination: Unspecified, Local: 128.0.0.1, Broadcast: Unspecified,
+        Generation: 130
+      Addresses, Flags: None
+        Destination: Unspecified, Local: 128.0.0.16, Broadcast: Unspecified,
+        Generation: 129
+      Addresses, Flags: None
+        Destination: Unspecified, Local: 128.0.0.32, Broadcast: Unspecified,
+        Generation: 131
+    Protocol inet6, MTU: Unlimited, Generation: 137, Route table: 1
+      Flags: None
+
+  Logical interface .local..2 (Index 2) (SNMP ifIndex 0) (HW Token 2)
+   (Generation 2)
+    Flags: Point-To-Point Encapsulation: Unspecified
+    Bandwidth: 0
+    Protocol inet, MTU: Unlimited, Generation: 140, Route table: 2
+      Flags: None
+      Addresses, Flags: Is-Default Is-Primary
+        Destination: Unspecified, Local: 127.0.0.1, Broadcast: Unspecified,
+        Generation: 132
+
+  Logical interface .local..3 (Index 70) (SNMP ifIndex 0) (Generation 135)
+    Flags: Point-To-Point Encapsulation: Unspecified
+    Bandwidth: 0
+    Protocol inet, MTU: Unlimited, Generation: 148, Route table: 3
+      Flags: None
+    Protocol iso, MTU: Unlimited, Generation: 149, Route table: 3
+      Flags: None
+    Protocol inet6, MTU: Unlimited, Generation: 151, Route table: 3
+      Flags: None
+
+  Logical interface .local..4 (Index 71) (SNMP ifIndex 0) (Generation 136)
+    Flags: Point-To-Point Encapsulation: Unspecified
+    Bandwidth: 0
+    Protocol mpls, MTU: Unlimited, Maximum labels: 3, Generation: 150,
+    Route table: 4
+      Flags: None
+
+Physical interface: bme0, Enabled, Physical link is Up
+  Interface index: 64, SNMP ifIndex: 37, Generation: 2
+  Type: Ethernet, Link-level type: Ethernet, MTU: 1576, Clocking: Unspecified,
+  Speed: Unspecified
+  Device flags   : Present Running
+  Link type      : Unspecified
+  Link flags     : None
+  Physical info  : Unspecified
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:0b:ca:fe:00:00, Hardware address: 00:0b:ca:fe:00:00
+  Alternate link address: Unspecified
+  Last flapped   : Never
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0
+   Output bytes  :           2505990711
+   Input  packets:                    0
+   Output packets:             19073349
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Giants: 0,
+    Policed discards: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 0, Errors: 0, Drops: 0, MTU errors: 0,
+    Resource errors: 0
+
+  Logical interface bme0.32768 (Index 3) (SNMP ifIndex 38) (Generation 1)
+    Flags: Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :           1143592403
+     Output bytes  :                  126
+     Input  packets:              8663207
+     Output packets:                    3
+    Local statistics:
+     Input  bytes  :           1143592403
+     Output bytes  :                  126
+     Input  packets:              8663207
+     Output packets:                    3
+    Protocol inet, MTU: 1562, Generation: 141, Route table: 1
+      Flags: Is-Primary
+      Addresses, Flags: Primary Preferred Is-Default Is-Preferred Is-Primary
+        Destination: 128/2, Local: 128.0.0.1, Broadcast: 191.255.255.255,
+        Generation: 2
+      Addresses, Flags: Primary
+        Destination: 128/2, Local: 128.0.0.16, Broadcast: 191.255.255.255,
+        Generation: 1
+      Addresses, Flags: None
+        Destination: 128/2, Local: 128.0.0.32, Broadcast: 191.255.255.255,
+        Generation: 3
+    Protocol tnp, MTU: 1562, Generation: 142, Route table: 1
+      Flags: Is-Primary
+      Addresses, Flags: Primary
+        Destination: Unspecified, Local: 0x10, Broadcast: Unspecified,
+        Generation: 4
+
+Physical interface: dsc, Enabled, Physical link is Up
+  Interface index: 5, SNMP ifIndex: 5, Generation: 6
+  Type: Software-Pseudo, Link-level type: Unspecified, MTU: Unlimited,
+  Clocking: Unspecified, Speed: Unspecified
+  Device flags   : Present Running
+  Interface flags: Point-To-Point SNMP-Traps
+  Link type      : Unspecified
+  Link flags     : None
+  Physical info  : Unspecified
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: Unspecified, Hardware address: Unspecified
+  Alternate link address: Unspecified
+  Last flapped   : Never
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0
+   Output bytes  :                    0
+   Input  packets:                    0
+   Output packets:                    0
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Giants: 0,
+    Policed discards: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 0, Errors: 0, Drops: 0, MTU errors: 0,
+    Resource errors: 0
+
+Physical interface: gre, Enabled, Physical link is Up
+  Interface index: 10, SNMP ifIndex: 8, Generation: 11
+  Type: GRE, Link-level type: GRE, MTU: Unlimited, Speed: Unlimited
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: Unspecified, Hardware address: Unspecified
+  Device flags   : Present Running
+  Interface flags: Point-To-Point SNMP-Traps
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0
+   Output bytes  :                    0
+   Input  packets:                    0
+   Output packets:                    0
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+
+Physical interface: ipip, Enabled, Physical link is Up
+  Interface index: 11, SNMP ifIndex: 9, Generation: 12
+  Type: IPIP, Link-level type: IP-over-IP, MTU: Unlimited, Speed: Unlimited
+  Hold-times     : Up 0 ms, Down 0 ms
+  Device flags   : Present Running
+  Interface flags: SNMP-Traps
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0
+   Output bytes  :                    0
+   Input  packets:                    0
+   Output packets:                    0
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+
+Physical interface: lo0, Enabled, Physical link is Up
+  Interface index: 6, SNMP ifIndex: 6, Generation: 7
+  Type: Loopback, Link-level type: Unspecified, MTU: Unlimited,
+  Clocking: Unspecified, Speed: Unspecified
+  Device flags   : Present Running Loopback
+  Interface flags: SNMP-Traps
+  Link type      : Unspecified
+  Link flags     : None
+  Physical info  : Unspecified
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: Unspecified, Hardware address: Unspecified
+  Alternate link address: Unspecified
+  Last flapped   : Never
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :           5435670345
+   Output bytes  :           5435670345
+   Input  packets:             85533322
+   Output packets:             85533322
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Giants: 0,
+    Policed discards: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 0, Errors: 0, Drops: 0, MTU errors: 0,
+    Resource errors: 0
+
+  Logical interface lo0.0 (Index 65) (SNMP ifIndex 16) (Generation 130)
+    Flags: SNMP-Traps Encapsulation: Unspecified
+    Traffic statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Local statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Protocol inet, MTU: Unlimited, Generation: 144, Route table: 0
+      Flags: None
+      Addresses, Flags: Is-Default Is-Primary
+        Destination: Unspecified, Local: 10.0.0.1, Broadcast: Unspecified,
+        Generation: 135
+
+  Logical interface lo0.16384 (Index 64) (SNMP ifIndex 21) (Generation 129)
+    Flags: Encapsulation: Unspecified
+    Traffic statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Local statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Protocol inet, MTU: Unlimited, Generation: 143, Route table: 2
+      Flags: None
+      Addresses, Flags: Primary
+        Destination: Unspecified, Local: 127.0.0.1, Broadcast: Unspecified,
+        Generation: 133
+
+Physical interface: lsi, Enabled, Physical link is Up
+  Interface index: 4, SNMP ifIndex: 4, Generation: 5
+  Type: Software-Pseudo, Link-level type: LSI, MTU: 1496, Clocking: Unspecified,
+  Speed: Unlimited
+  Device flags   : Present Running
+  Link type      : Unspecified
+  Link flags     : None
+  Physical info  : Unspecified
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: Unspecified, Hardware address: Unspecified
+  Alternate link address: Unspecified
+  Last flapped   : Never
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0
+   Output bytes  :                    0
+   Input  packets:                    0
+   Output packets:                    0
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Giants: 0,
+    Policed discards: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 0, Errors: 0, Drops: 0, MTU errors: 0,
+    Resource errors: 0
+
+Physical interface: me0, Enabled, Physical link is Down
+  Interface index: 1, SNMP ifIndex: 33, Generation: 1
+  Type: Ethernet, Link-level type: Ethernet, MTU: 1514, Clocking: Unspecified,
+  Speed: Unspecified
+  Device flags   : Present Running No-Carrier
+  Interface flags: Hardware-Down SNMP-Traps
+  Link type      : Unspecified
+  Physical info  : Unspecified
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:3f, Hardware address: 00:26:88:78:4b:3f
+  Alternate link address: Unspecified
+  Last flapped   : 2014-11-03 21:48:51 UTC (120w3d 13:11 ago)
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0
+   Output bytes  :                    0
+   Input  packets:                    0
+   Output packets:                    0
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Giants: 0,
+    Policed discards: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 3, Errors: 0, Drops: 0, MTU errors: 0,
+    Resource errors: 0
+
+Physical interface: mtun, Enabled, Physical link is Up
+  Interface index: 65, SNMP ifIndex: 12, Generation: 3
+  Type: Multicast-GRE, Link-level type: GRE, MTU: Unlimited, Speed: Unlimited
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: Unspecified, Hardware address: Unspecified
+  Device flags   : Present Running
+  Interface flags: SNMP-Traps
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0
+   Output bytes  :                    0
+   Input  packets:                    0
+   Output packets:                    0
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+
+Physical interface: pimd, Enabled, Physical link is Up
+  Interface index: 26, SNMP ifIndex: 11, Generation: 130
+  Type: PIMD, Link-level type: PIM-Decapsulator, MTU: Unlimited,
+  Speed: Unlimited
+  Hold-times     : Up 0 ms, Down 0 ms
+  Device flags   : Present Running
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0
+   Output bytes  :                    0
+   Input  packets:                    0
+   Output packets:                    0
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+
+Physical interface: pime, Enabled, Physical link is Up
+  Interface index: 25, SNMP ifIndex: 10, Generation: 129
+  Type: PIME, Link-level type: PIM-Encapsulator, MTU: Unlimited,
+  Speed: Unlimited
+  Hold-times     : Up 0 ms, Down 0 ms
+  Device flags   : Present Running
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0
+   Output bytes  :                    0
+   Input  packets:                    0
+   Output packets:                    0
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+
+Physical interface: tap, Enabled, Physical link is Up
+  Interface index: 12, SNMP ifIndex: 7, Generation: 13
+  Type: Software-Pseudo, Link-level type: Interface-Specific, MTU: Unlimited,
+  Clocking: Unspecified, Speed: Unlimited
+  Device flags   : Present Running
+  Interface flags: SNMP-Traps
+  Link type      : Unspecified
+  Link flags     : None
+  Physical info  : Unspecified
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: Unspecified, Hardware address: Unspecified
+  Alternate link address: Unspecified
+  Last flapped   : Never
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :                    0
+   Output bytes  :                    0
+   Input  packets:                    0
+   Output packets:                    0
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Giants: 0,
+    Policed discards: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 0, Errors: 0, Drops: 0, MTU errors: 0,
+    Resource errors: 0
+
+Physical interface: vlan, Enabled, Physical link is Up
+  Interface index: 128, SNMP ifIndex: 549, Generation: 131
+  Description: This-is-internal-VLAN-interface
+  Type: VLAN, Link-level type: VLAN, MTU: 1518, Clocking: Unspecified,
+  Speed: 1000mbps
+  Device flags   : Present Running
+  Link type      : Full-Duplex
+  Link flags     : None
+  Physical info  : Unspecified
+  Hold-times     : Up 0 ms, Down 0 ms
+  Current address: 00:26:88:78:4b:01, Hardware address: 00:26:88:78:4b:01
+  Alternate link address: Unspecified
+  Last flapped   : Never
+  Statistics last cleared: Never
+  Traffic statistics:
+   Input  bytes  :            544241360
+   Output bytes  :            499447222
+   Input  packets:              7483983
+   Output packets:              4643918
+   IPv6 transit statistics:
+    Input  bytes  :                   0
+    Output bytes  :                   0
+    Input  packets:                   0
+    Output packets:                   0
+  Input errors:
+    Errors: 0, Drops: 0, Framing errors: 0, Runts: 0, Giants: 0,
+    Policed discards: 0, Resource errors: 0
+  Output errors:
+    Carrier transitions: 0, Errors: 0, Drops: 0, MTU errors: 0,
+    Resource errors: 0
+
+  Logical interface vlan.3 (Index 66) (SNMP ifIndex 551) (HW Token 3)
+   (Generation 131)
+    Description: The_logical_VLAN1_interface_to_3.0/24_network
+    Flags: SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :          15458916831
+     Output bytes  :            461102292
+     Input  packets:             54223692
+     Output packets:              4643938
+    Local statistics:
+     Input  bytes  :            544242608
+     Output bytes  :            461102292
+     Input  packets:              7484002
+     Output packets:              4643938
+    Transit statistics:
+     Input  bytes  :          14914674223               353216 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:             46739690                  383 pps
+     Output packets:                    0                    0 pps
+    Protocol inet, MTU: 1500, Generation: 145, Route table: 0
+      Flags: Is-Primary
+      Addresses, Flags: Preferred Is-Preferred Is-Primary
+        Destination: 192.168.3/24, Local: 192.168.3.201,
+        Broadcast: 192.168.3.255, Generation: 137
+
+  Logical interface vlan.20 (Index 67) (SNMP ifIndex 554) (Generation 132)
+    Description: This is test description for normal text.
+    Flags: Link-Layer-Down SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                    0
+     Output bytes  :                   42
+     Input  packets:                    0
+     Output packets:                    1
+    Local statistics:
+     Input  bytes  :                    0
+     Output bytes  :                   42
+     Input  packets:                    0
+     Output packets:                    1
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol inet, MTU: 1500, Generation: 146, Route table: 0
+      Flags: None
+      Addresses, Flags: Is-Preferred Is-Primary
+        Destination: 10.255.2/24, Local: 10.255.2.1, Broadcast: 10.255.2.255,
+        Generation: 139
+
+  Logical interface vlan.30 (Index 68) (SNMP ifIndex 555) (Generation 133)
+    Description: This is test description for !@#$%^^&*()_+|><MNM~12345667789. 
+    Flags: Link-Layer-Down SNMP-Traps Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Local statistics:
+     Input  bytes  :                    0
+     Output bytes  :                    0
+     Input  packets:                    0
+     Output packets:                    0
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+
+  Logical interface vlan.40 (Index 69) (SNMP ifIndex 556) (Generation 134)
+    Description: This is test description AB/CD/EF-1234G_123
+    Flags: Link-Layer-Down SNMP-Traps 0x0 Encapsulation: ENET2
+    Traffic statistics:
+     Input  bytes  :                    0
+     Output bytes  :                   42
+     Input  packets:                    0
+     Output packets:                    1
+    Local statistics:
+     Input  bytes  :                    0
+     Output bytes  :                   42
+     Input  packets:                    0
+     Output packets:                    1
+    Transit statistics:
+     Input  bytes  :                    0                    0 bps
+     Output bytes  :                    0                    0 bps
+     Input  packets:                    0                    0 pps
+     Output packets:                    0                    0 pps
+    Protocol inet, MTU: 1500, Generation: 147, Route table: 0
+      Flags: None
+      Addresses, Flags: Is-Preferred Is-Primary
+        Destination: 10.255.4/24, Local: 10.255.4.1, Broadcast: 10.255.4.255,
+        Generation: 141

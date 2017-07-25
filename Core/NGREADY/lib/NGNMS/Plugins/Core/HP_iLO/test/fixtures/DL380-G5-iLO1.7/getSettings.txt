@@ -1,0 +1,35 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/map1/settings1
+  Targets
+    DNSSettings1
+      Properties
+        DNSServerAddress=0
+        RegisterThisConnection=yes
+        DomainName=dynamic.ziggo.nl
+        DHCPOptionToUse=no
+      Verbs
+        cd version exit show set
+    WINSSettingData1
+      Properties
+        WINSServerAddress=0.0.0.0, 0.0.0.0
+        RegisterThisConnection=no
+        DHCPOptionToUse=yes
+      Verbs
+        cd version exit show set
+    StaticIPSettings1
+      Properties
+        oemhp_SRoute1Address=0.0.0.0
+        oemhp_Gateway1Address=0.0.0.0
+        oemhp_SRoute2Address=0.0.0.0
+        oemhp_Gateway2Address=0.0.0.0
+        oemhp_SRoute3Address=0.0.0.0
+        oemhp_Gateway3Address=0.0.0.0
+        DHCPOptionToUse=yes
+      Verbs
+        cd version exit show set
+  Properties
+  Verbs
+    cd version exit show set

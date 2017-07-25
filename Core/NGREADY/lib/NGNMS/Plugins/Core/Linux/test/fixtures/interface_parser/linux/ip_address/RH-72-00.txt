@@ -1,0 +1,28 @@
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host
+       valid_lft forever preferred_lft forever
+2: ens192: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP qlen 1000
+    link/ether 00:0c:29:32:76:f8 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.3.121/24 brd 192.168.3.255 scope global dynamic ens192
+       valid_lft 31359110sec preferred_lft 31359110sec
+    inet6 fe80::20c:29ff:fe32:76f8/64 scope link
+       valid_lft forever preferred_lft forever
+3: ens224: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP qlen 1000
+    link/ether 00:0c:29:32:76:02 brd ff:ff:ff:ff:ff:ff
+    inet6 fe80::20c:29ff:fe32:7602/64 scope link
+       valid_lft forever preferred_lft forever
+4: ens224.10@ens224: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP
+    link/ether 00:0c:29:32:76:02 brd ff:ff:ff:ff:ff:ff
+    inet 172.17.133.129/24 brd 172.17.133.255 scope global ens224.10
+       valid_lft forever preferred_lft forever
+    inet6 fe80::20c:29ff:fe32:7602/64 scope link
+       valid_lft forever preferred_lft forever
+5: virbr0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN
+    link/ether 52:54:00:cf:e8:6f brd ff:ff:ff:ff:ff:ff
+    inet 192.168.122.1/24 brd 192.168.122.255 scope global virbr0
+       valid_lft forever preferred_lft forever
+6: virbr0-nic: <BROADCAST,MULTICAST> mtu 1500 qdisc pfifo_fast master virbr0 state DOWN qlen 500
+    link/ether 52:54:00:cf:e8:6f brd ff:ff:ff:ff:ff:ff

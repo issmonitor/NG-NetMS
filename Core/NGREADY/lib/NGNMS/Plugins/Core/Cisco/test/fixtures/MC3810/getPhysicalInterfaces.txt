@@ -1,0 +1,102 @@
+Ethernet0 is up, line protocol is up 
+  Hardware is PQUICC Ethernet, address is 0010.7b48.33e8 (bia 0010.7b48.33e8)
+  Description: C1->Common segment
+  Internet address is 192.168.3.202/24
+  MTU 1500 bytes, BW 10000 Kbit, DLY 1000 usec, 
+     reliability 255/255, txload 1/255, rxload 1/255
+  Encapsulation ARPA, loopback not set
+  ARP type: ARPA, ARP Timeout 04:00:00
+  Last input 00:00:00, output 00:00:00, output hang never
+  Last clearing of "show interface" counters never
+  Input queue: 2/75/0/71447 (size/max/drops/flushes); Total output drops: 0
+  Queueing strategy: fifo
+  Output queue: 0/40 (size/max)
+  5 minute input rate 5000 bits/sec, 6 packets/sec
+  5 minute output rate 3000 bits/sec, 4 packets/sec
+     162152701 packets input, 1042347036 bytes, 0 no buffer
+     Received 40810379 broadcasts, 0 runts, 0 giants, 21888 throttles
+     25726 input errors, 1531 CRC, 0 frame, 0 overrun, 24195 ignored
+     0 input packets with dribble condition detected
+     129346062 packets output, 4176559635 bytes, 0 underruns
+     2588 output errors, 152189 collisions, 1 interface resets
+     0 babbles, 0 late collision, 212787 deferred
+     2586 lost carrier, 0 no carrier
+     0 output buffer failures, 0 output buffers swapped out
+Loopback0 is up, line protocol is up 
+  Hardware is Loopback
+  Description: C1-RouterID
+  Internet address is 10.1.1.1/32
+  MTU 1514 bytes, BW 8000000 Kbit, DLY 5000 usec, 
+     reliability 255/255, txload 1/255, rxload 1/255
+  Encapsulation LOOPBACK, loopback not set
+  Last input never, output never, output hang never
+  Last clearing of "show interface" counters never
+  Input queue: 0/75/0/0 (size/max/drops/flushes); Total output drops: 0
+  Queueing strategy: fifo
+  Output queue: 0/0 (size/max)
+  5 minute input rate 0 bits/sec, 0 packets/sec
+  5 minute output rate 0 bits/sec, 0 packets/sec
+     0 packets input, 0 bytes, 0 no buffer
+     Received 0 broadcasts, 0 runts, 0 giants, 0 throttles
+     0 input errors, 0 CRC, 0 frame, 0 overrun, 0 ignored, 0 abort
+     0 packets output, 0 bytes, 0 underruns
+     0 output errors, 0 collisions, 0 interface resets
+     0 output buffer failures, 0 output buffers swapped out
+Serial0 is down, line protocol is down 
+  Hardware is PQUICC Serial
+  Description: Home_VPN1
+  Internet address is 192.168.20.1/29
+  MTU 1500 bytes, BW 1544 Kbit, DLY 20000 usec, 
+     reliability 255/255, txload 1/255, rxload 1/255
+  Encapsulation HDLC, crc 16, loopback not set
+  Keepalive set (10 sec)
+  Scramble enabled 
+  Last input never, output never, output hang never
+  Last clearing of "show interface" counters never
+  Input queue: 0/75/0/0 (size/max/drops/flushes); Total output drops: 0
+  Queueing strategy: weighted fair
+  Output queue: 0/1000/64/0 (size/max total/threshold/drops) 
+     Conversations  0/0/256 (active/max active/max total)
+     Reserved Conversations 0/0 (allocated/max allocated)
+     Available Bandwidth 1158 kilobits/sec
+  5 minute input rate 0 bits/sec, 0 packets/sec
+  5 minute output rate 0 bits/sec, 0 packets/sec
+     0 packets input, 0 bytes, 0 no buffer
+     Received 0 broadcasts, 0 runts, 0 giants, 0 throttles
+     0 input errors, 0 CRC, 0 frame, 0 overrun, 0 ignored, 0 abort
+     0 packets output, 0 bytes, 0 underruns
+     0 output errors, 0 collisions, 6 interface resets
+     0 output buffer failures, 0 output buffers swapped out
+     0 carrier transitions
+  Cable attached: No cable
+  Hardware config: No cable; DTE;  DSR = DOWN   DTR = DOWN   RTS = DOWN   CTS = DOWN   DCD = DOWN   
+
+Serial1 is up, line protocol is up 
+  Hardware is PQUICC Serial
+  Description: E1 line to C1<->C2
+  Internet address is 20.0.1.1/30
+  MTU 1500 bytes, BW 1544 Kbit, DLY 20000 usec, 
+     reliability 255/255, txload 1/255, rxload 1/255
+  Encapsulation HDLC, crc 16, loopback not set
+  Keepalive set (10 sec)
+  Scramble enabled 
+  Last input 00:00:03, output 00:00:00, output hang never
+  Last clearing of "show interface" counters never
+  Input queue: 0/75/0/0 (size/max/drops/flushes); Total output drops: 0
+  Queueing strategy: weighted fair
+  Output queue: 0/1000/64/0 (size/max total/threshold/drops) 
+     Conversations  0/10/256 (active/max active/max total)
+     Reserved Conversations 0/0 (allocated/max allocated)
+     Available Bandwidth 1158 kilobits/sec
+  5 minute input rate 0 bits/sec, 1 packets/sec
+  5 minute output rate 0 bits/sec, 0 packets/sec
+     60977385 packets input, 379222326 bytes, 0 no buffer
+     Received 4369919 broadcasts, 0 runts, 0 giants, 0 throttles
+     1 input errors, 0 CRC, 1 frame, 0 overrun, 0 ignored, 0 abort
+     60539800 packets output, 325182890 bytes, 0 underruns
+     0 output errors, 0 collisions, 5 interface resets
+     0 output buffer failures, 0 output buffers swapped out
+     2 carrier transitions
+  Cable attached: X.21 (DCE)
+  Hardware config: X.21; DCE; BRG (CPU);
+  DSR = UP   DTR = DOWN   RTS = UP   CTS = UP   DCD = UP   

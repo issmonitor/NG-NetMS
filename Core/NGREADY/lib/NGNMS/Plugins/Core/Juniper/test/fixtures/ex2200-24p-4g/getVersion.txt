@@ -1,0 +1,16 @@
+fpc0:
+--------------------------------------------------------------------------
+Hostname: 10.4.4.4
+Model: ex2200-24p-4g
+JUNOS Base OS boot [12.3R8.7]
+JUNOS Base OS Software Suite [12.3R8.7]
+JUNOS Kernel Software Suite [12.3R8.7]
+JUNOS Crypto Software Suite [12.3R8.7]
+JUNOS Online Documentation [12.3R8.7]
+JUNOS Enterprise Software Suite [12.3R8.7]
+JUNOS Packet Forwarding Engine Enterprise Software Suite [12.3R8.7]
+JUNOS Routing Software Suite [12.3R8.7]
+JUNOS Web Management [12.3R8.7]
+JUNOS FIPS mode utilities [12.3R8.7]
+
+{master:0}

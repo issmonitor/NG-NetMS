@@ -1,0 +1,31 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/map1/enetport1
+  Targets
+    lanendpt1
+      Targets
+        ipendpt1
+          Properties
+            IPv4Address=192.168.254.100
+            SubnetMask=255.255.255.0
+            AddressOrigin=Static
+          Verbs
+            cd version exit show set
+      Properties
+        EnabledState=2
+        MACAddress=00:1c:c4:5b:ba:54
+
+      Verbs
+        cd version exit show set
+  Properties
+    Autosense=yes
+    PermanentAddress=00:1c:c4:5b:ba:54
+    LinkTechnology=Ethernet
+    Speed=100 Mbits/s
+    SystemName=ILOCZC7440YYC
+    FullDuplex=yes
+  Verbs
+    cd version exit show set
+

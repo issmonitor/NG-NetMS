@@ -1,0 +1,18 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/system1/sensor9
+  Targets
+  Properties
+    DeviceID=Temp 7
+    ElementName=CPU 2
+    OperationalStatus=Ok
+    RateUnits=Celsius
+    CurrentReading=30
+    SensorType=Temperature
+    HealthState=Ok
+    oemhp_CautionValue=127
+    oemhp_CriticalValue=127
+  Verbs
+    cd version exit show set

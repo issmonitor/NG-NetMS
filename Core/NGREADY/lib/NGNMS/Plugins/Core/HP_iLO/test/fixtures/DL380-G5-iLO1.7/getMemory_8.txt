@@ -1,0 +1,12 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/system1/memory8
+  Targets
+  Properties
+    size=8192MB
+    speed=667MHz
+    location=DIMM 8D 
+  Verbs
+    cd version exit show set

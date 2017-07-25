@@ -1,0 +1,15 @@
+Hardware inventory:
+Item             Version  Part number  Serial number     Description
+Chassis                                JN010379AB        J4300
+Midplane         REV 05   710-010001   AD06500121       
+System IO        REV 09   710-010003   AE06500477        System IO board
+Routing Engine   REV 403  750-010005   BTRD61501690      RE-J.2
+FPC 0                                                    FPC
+  PIC 0                                                  2x FE
+FPC 1            REV 05   750-010353   AF06440071        FPC
+  PIC 0                                                  2x FE
+FPC 2            REV 04   750-010353   AF04452435        FPC
+  PIC 0                                                  2x FE
+FPC 4            REV 04   750-010356   AG04340029        FPC
+  PIC 0                                                  2x Serial
+Power Supply 0  

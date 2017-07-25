@@ -1,0 +1,38 @@
+
+
+ Status and Counters - General System Information
+
+
+  System Name        : HP_switch                                       
+
+  System Contact     : TM
+
+  System Location    : GARAGE
+
+
+  MAC Age Time (sec) : 300    
+
+
+  Time Zone          : 0    
+
+  Daylight Time Rule : None                      
+
+
+
+  Software revision  : Y.11.08          Base MAC Addr      : 002347-3bdcc0
+
+  ROM Version        : N.10.02          Serial Number      : CN930DE0JF  
+
+
+  Up Time            : 72 days          Memory   - Total   : 23,661,888  
+
+  CPU Util (%)       : 85                          Free    : 16,432,528  
+
+
+  IP Mgmt  - Pkts Rx : 3,680,990        Packet   - Total   : 3022        
+
+             Pkts Tx : 4,819,539        Buffers    Free    : 2896        
+
+                                                   Lowest  : 2802        
+
+                                                   Missed  : 0           

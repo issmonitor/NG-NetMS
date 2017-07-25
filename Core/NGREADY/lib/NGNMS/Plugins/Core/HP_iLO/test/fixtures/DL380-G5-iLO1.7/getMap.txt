@@ -1,0 +1,28 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/map1
+  Targets
+    firmware1
+    accounts1
+    log1
+    enetport1
+    dhcpendpt1
+    dnsendpt1
+    gateway1
+    dnsserver1
+    dnsserver2
+    dnsserver3
+    dhcpserver1
+    settings1
+    config1
+    snmp1
+    oemhp_dircfg1
+    oemhp_vm1
+    vlan1
+    oemhp_ssocfg1
+  Properties
+    name=iLO 2 Advanced
+      Verbs
+    cd version exit show reset set oemhp_ping

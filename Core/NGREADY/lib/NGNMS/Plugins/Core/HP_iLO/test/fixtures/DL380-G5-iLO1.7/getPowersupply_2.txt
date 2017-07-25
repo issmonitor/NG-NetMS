@@ -1,0 +1,12 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/system1/powersupply2
+  Targets
+  Properties
+    ElementName=Power Supply 2
+    OperationalStatus=Ok
+    HealthState=Ok
+  Verbs
+    cd version exit show set

@@ -1,0 +1,263 @@
+entPhysicalDescr.1 = ProCurve J9279A Switch 2510G-24
+
+entPhysicalModelName.1 = J9279A
+
+entPhysicalFirmwareRev.1 = N.10.02
+
+entPhysicalSerialNum.1 = CN930DE0JF 
+
+entPhysicalDescr.2 = ProCurve J9279A Switch backplane
+
+entPhysicalModelName.2 = J9279A
+
+entPhysicalFirmwareRev.2 = 
+
+entPhysicalSerialNum.2 = 
+
+entPhysicalDescr.5 = ProCurve J9279A Switch fan
+
+entPhysicalModelName.5 = 
+
+entPhysicalFirmwareRev.5 = 
+
+entPhysicalSerialNum.5 = 
+
+entPhysicalDescr.6 = ProCurve J9279A Switch fan
+
+entPhysicalModelName.6 = 
+
+entPhysicalFirmwareRev.6 = 
+
+entPhysicalSerialNum.6 = 
+
+entPhysicalDescr.7 = ProCurve J9279A Switch fan
+
+entPhysicalModelName.7 = 
+
+entPhysicalFirmwareRev.7 = 
+
+entPhysicalSerialNum.7 = 
+
+entPhysicalDescr.9 = ProCurve J9279A Switch power supply
+
+entPhysicalModelName.9 = 
+
+entPhysicalFirmwareRev.9 = 
+
+entPhysicalSerialNum.9 = 
+
+entPhysicalDescr.10 = ProCurve J9279A Switch power supply
+
+entPhysicalModelName.10 = 
+
+entPhysicalFirmwareRev.10 = 
+
+entPhysicalSerialNum.10 = 
+
+entPhysicalDescr.12 = ProCurve J9279A Switch port module slot
+
+entPhysicalModelName.12 = 
+
+entPhysicalFirmwareRev.12 = 
+
+entPhysicalSerialNum.12 = 
+
+entPhysicalDescr.14 = ProCurve CARD00 Switch card id:00
+
+entPhysicalModelName.14 = 
+
+entPhysicalFirmwareRev.14 = 
+
+entPhysicalSerialNum.14 = 
+
+entPhysicalDescr.15 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.15 = 
+
+entPhysicalFirmwareRev.15 = 
+
+entPhysicalSerialNum.15 = 
+
+entPhysicalDescr.16 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.16 = 
+
+entPhysicalFirmwareRev.16 = 
+
+entPhysicalSerialNum.16 = 
+
+entPhysicalDescr.17 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.17 = 
+
+entPhysicalFirmwareRev.17 = 
+
+entPhysicalSerialNum.17 = 
+
+entPhysicalDescr.18 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.18 = 
+
+entPhysicalFirmwareRev.18 = 
+
+entPhysicalSerialNum.18 = 
+
+entPhysicalDescr.19 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.19 = 
+
+entPhysicalFirmwareRev.19 = 
+
+entPhysicalSerialNum.19 = 
+
+entPhysicalDescr.20 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.20 = 
+
+entPhysicalFirmwareRev.20 = 
+
+entPhysicalSerialNum.20 = 
+
+entPhysicalDescr.21 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.21 = 
+
+entPhysicalFirmwareRev.21 = 
+
+entPhysicalSerialNum.21 = 
+
+entPhysicalDescr.22 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.22 = 
+
+entPhysicalFirmwareRev.22 = 
+
+entPhysicalSerialNum.22 = 
+
+entPhysicalDescr.23 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.23 = 
+
+entPhysicalFirmwareRev.23 = 
+
+entPhysicalSerialNum.23 = 
+
+entPhysicalDescr.24 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.24 = 
+
+entPhysicalFirmwareRev.24 = 
+
+entPhysicalSerialNum.24 = 
+
+entPhysicalDescr.25 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.25 = 
+
+entPhysicalFirmwareRev.25 = 
+
+entPhysicalSerialNum.25 = 
+
+entPhysicalDescr.26 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.26 = 
+
+entPhysicalFirmwareRev.26 = 
+
+entPhysicalSerialNum.26 = 
+
+entPhysicalDescr.27 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.27 = 
+
+entPhysicalFirmwareRev.27 = 
+
+entPhysicalSerialNum.27 = 
+
+entPhysicalDescr.28 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.28 = 
+
+entPhysicalFirmwareRev.28 = 
+
+entPhysicalSerialNum.28 = 
+
+entPhysicalDescr.29 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.29 = 
+
+entPhysicalFirmwareRev.29 = 
+
+entPhysicalSerialNum.29 = 
+
+entPhysicalDescr.30 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.30 = 
+
+entPhysicalFirmwareRev.30 = 
+
+entPhysicalSerialNum.30 = 
+
+entPhysicalDescr.31 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.31 = 
+
+entPhysicalFirmwareRev.31 = 
+
+entPhysicalSerialNum.31 = 
+
+entPhysicalDescr.32 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.32 = 
+
+entPhysicalFirmwareRev.32 = 
+
+entPhysicalSerialNum.32 = 
+
+entPhysicalDescr.33 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.33 = 
+
+entPhysicalFirmwareRev.33 = 
+
+entPhysicalSerialNum.33 = 
+
+entPhysicalDescr.34 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.34 = 
+
+entPhysicalFirmwareRev.34 = 
+
+entPhysicalSerialNum.34 = 
+
+entPhysicalDescr.35 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.35 = 
+
+entPhysicalFirmwareRev.35 = 
+
+entPhysicalSerialNum.35 = 
+
+entPhysicalDescr.36 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.36 = 
+
+entPhysicalFirmwareRev.36 = 
+
+entPhysicalSerialNum.36 = 
+
+entPhysicalDescr.37 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.37 = 
+
+entPhysicalFirmwareRev.37 = 
+
+entPhysicalSerialNum.37 = 
+
+entPhysicalDescr.38 = ProCurve CARD00 100/1000BASE-T Port
+
+entPhysicalModelName.38 = 
+
+entPhysicalFirmwareRev.38 = 
+
+entPhysicalSerialNum.38 = 

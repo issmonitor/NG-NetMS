@@ -1,0 +1,11 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/system1/slot5
+  Targets
+  Properties
+    type=PCI Express
+    width=8x
+  Verbs
+    cd version exit show set

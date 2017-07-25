@@ -1,0 +1,14 @@
+Hardware inventory:
+Item             Version  Part number  Serial number     Description
+Chassis                                GA0212433333      EX3300-48T
+Routing Engine 0 REV 11   750-034247   GA0212433333      EX3300 48-Port
+FPC 0            REV 11   750-034247   GA0212433333      EX3300 48-Port
+  CPU                     BUILTIN      BUILTIN           FPC CPU
+  PIC 0                   BUILTIN      BUILTIN           48x 10/100/1000 Base-T
+  PIC 1          REV 11   750-034247   GA0212433333      4x GE/XE SFP+
+    Xcvr 1                NON-JNPR     FT20130608002     SFP+-10G-LR
+    Xcvr 2       REV 01   740-021308   CSS11F31218       SFP+-10G-CU1M
+Power Supply 0                                           PS 100W AC
+Fan Tray                                                 Fan Tray
+
+{master:0}

@@ -1,0 +1,15 @@
+status=0
+status_tag=COMMAND COMPLETED
+
+
+/system1/fan2
+  Targets
+  Properties
+    DeviceID=Fan 2
+    ElementName=I/O Board
+    OperationalStatus=Ok
+    VariableSpeed=Yes
+    DesiredSpeed=45
+    HealthState=Ok
+  Verbs
+    cd version exit show set

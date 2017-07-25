@@ -1,0 +1,13 @@
+Hostname: 10.0.0.1
+Model: ex3200-24t
+JUNOS Base OS boot [12.3R6.6]
+JUNOS Base OS Software Suite [12.3R6.6]
+JUNOS Kernel Software Suite [12.3R6.6]
+JUNOS Crypto Software Suite [12.3R6.6]
+JUNOS Online Documentation [12.3R6.6]
+JUNOS Enterprise Software Suite [12.3R6.6]
+JUNOS Packet Forwarding Engine Enterprise Software Suite [12.3R6.6]
+JUNOS Routing Software Suite [12.3R6.6]
+JUNOS Web Management [12.3R6.6]
+JUNOS FIPS mode utilities [12.3R6.6]
+JUNOS loader upgrade [12.1R3]
